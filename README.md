@@ -1,4 +1,4 @@
-### Hi there 👋
+### 깃허브 적응중 👋
 
 <!--
 **SeungYeon04/SeungYeon04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
