@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=wave)
+
+
 ### 깃허브 적응중 👋
 
 <!--
