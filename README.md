@@ -6,7 +6,7 @@
 ***
 
 <html> 
-<body> 
+<body class="htmlss"> 
 💬 SNS 💬 
   
 <a href="https://blog.naver.com/catoo_4" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white"></a>
