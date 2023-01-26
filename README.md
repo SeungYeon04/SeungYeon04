@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=드루이드 개발일지)
+![header](https://capsule-render.vercel.app/api?type=waving&text=druids%developer)
 ### 깃허브 적응중 👋
 
 <!--
