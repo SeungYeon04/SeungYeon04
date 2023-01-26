@@ -18,12 +18,14 @@
 <link rel="stylesheet" href="file/main.css" type="text.css">
 
 </body>
-   <style type="text/css">
+ 
+  <head>
+ <style type="text/css">
  <!--
   body {font-size:9pt;}
  //-->
  </style>
-  
+</head>
 
 
 <!--
