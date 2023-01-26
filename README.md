@@ -6,7 +6,8 @@
 ***
 
 
-<body class="htmlss"> 
+<body> 
+  <div style="text-align:center">
 💬 SNS 💬
   
 <a href="https://blog.naver.com/catoo_4" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white"></a>
@@ -15,17 +16,11 @@
   
   
     
-<link rel="stylesheet" href="file/main.css" type="text.css">
+  </div>
 
 </body>
  
-  <head>
- <style type="text/css">
- <!--
-  body {font-size:9pt;}
- //-->
- </style>
-</head>
+ 
 
 
 <!--
