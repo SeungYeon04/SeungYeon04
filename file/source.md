@@ -1,1 +1,1 @@
-출처: https://github.com/kyechan99/capsule-render#wave
+참고: https://github.com/kyechan99/capsule-render#wave
