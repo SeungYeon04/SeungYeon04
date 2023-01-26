@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=DruidsDeveloper&fontSize=40&fontAlign=30)
+![header](https://capsule-render.vercel.app/api?type=waving&text=DruidsDeveloper&fontSize=40&fontAlign=30&fontColor=d6ace6)
 ### 깃허브 적응중 👋
 
 <!--
