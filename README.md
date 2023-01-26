@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&textBg=true)
+![header](https://capsule-render.vercel.app/api?type=waving)
 
 
 ### 깃허브 적응중 👋
