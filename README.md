@@ -8,7 +8,7 @@
 <body> 
 💬 SNS 💬 
   
-<a href="https://blog.naver.com/catoo_4" onclick="window.open('address','window_name','width=430,height=500,location=no,status=no,scrollbars=yes');"><img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white"></a>
+<a href="https://blog.naver.com/catoo_4" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white"></a>
 
 💬 STUDY 💬 
   
