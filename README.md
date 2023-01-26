@@ -16,7 +16,7 @@
 
 
 </body> 
-<link rel="stylesheet" href="file/main.css">
+<link rel="stylesheet" href="file/main.css" type="text.css">
 </html>
 
 <!--
