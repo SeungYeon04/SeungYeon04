@@ -13,6 +13,9 @@
 💬 STUDY 💬 
   
 
+<style type='text/css'>
+  [class*="box"] { display: flex; width: 20%; height: 50px; }
+</style>
 
 
 <!--
