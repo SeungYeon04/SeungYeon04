@@ -20,7 +20,7 @@
   
     <link rel="stylesheet" href="file/main.css" type="text.css">
 </head>
-<link rel="stylesheet" href="file/main.css" type="text.css">
+
 </html>
 
 <!--
