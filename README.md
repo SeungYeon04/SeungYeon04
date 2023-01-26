@@ -13,12 +13,7 @@
 
 💬 STUDY 💬 
   
-<style>
-  h1 {
-    color: blue;
-  }
-</style>
-  
+
 
 </body> 
 <link rel="stylesheet" href="file/main.css">
