@@ -1,5 +1,7 @@
 
   .body {
-  display : flex;
-  justify-content : center;
+ border : 1px solid blue;
+  height : 200px;
+  text-align : center;
+  line-height : 200px;
 }
