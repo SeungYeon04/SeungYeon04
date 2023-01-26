@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Druids%Developer)
+![header](https://capsule-render.vercel.app/api?type=waving&text=DruidsDeveloper)
 ### 깃허브 적응중 👋
 
 <!--
