@@ -1,11 +1,5 @@
-@font-face {
-    font-family: 'HSSaemaul-Regular';
-    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2108@1.1/HSSaemaul-Regular.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
 
-.header {
-   font-family : HSSaemaul-Regular, sans-serif ;
+  .body {
+  display : flex;
+  justify-content : center;
 }
-
