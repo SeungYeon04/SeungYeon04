@@ -8,11 +8,11 @@
 <body> 
 💬 SNS 💬 
   
-<img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
 
 💬 STUDY 💬 
   
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+
   
 
 </body> 
