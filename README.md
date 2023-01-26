@@ -5,7 +5,7 @@
 
 ***
 
-<html> 
+
 <body class="htmlss"> 
 💬 SNS 💬
   
@@ -18,7 +18,13 @@
 <link rel="stylesheet" href="file/main.css" type="text.css">
 
 </body>
-</html>
+   <style type="text/css">
+ <!--
+  body {font-size:9pt;}
+ //-->
+ </style>
+  
+
 
 <!--
 **SeungYeon04/SeungYeon04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
