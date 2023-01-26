@@ -6,6 +6,11 @@
 ***
 
 <html> 
+<hrad> 
+  
+    <link rel="stylesheet" href="file/main.css" type="text.css">
+</head>
+
 <body class="htmlss"> 
 💬 SNS 💬 
   
@@ -16,11 +21,6 @@
 
 
 </body>
-<hrad> 
-  
-    <link rel="stylesheet" href="file/main.css" type="text.css">
-</head>
-
 </html>
 
 <!--
