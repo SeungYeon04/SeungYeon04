@@ -5,11 +5,9 @@
 
 <br/>
 💬 SNS 💬 
-
-
+  
 💬 MAIN 💬 
-
-
+  
 💬 STUDY 💬 
 <br/> 
 
