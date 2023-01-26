@@ -5,6 +5,7 @@
 
 ***
 
+<html> 
 <body> 
 💬 SNS 💬 
   
@@ -22,7 +23,7 @@
   justify-content : center;
 }
 </style>
-
+</html>
 
 <!--
 **SeungYeon04/SeungYeon04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
