@@ -7,16 +7,15 @@
 
 <html> 
 <body class="htmlss"> 
-<a>💬 SNS 💬</a>
+💬 SNS 💬
   
 <a href="https://blog.naver.com/catoo_4" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white"></a>
 
-<a>💬 STUDY 💬</a>
+💬 STUDY 💬
   
-<hrad> 
   
-    <link rel="stylesheet" href="file/main.css" type="text.css">
-</head>
+    
+<link rel="stylesheet" href="file/main.css" type="text.css">
 
 </body>
 </html>
