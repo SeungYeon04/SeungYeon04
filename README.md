@@ -26,6 +26,7 @@
 아무거나 구경해보셔요><  
 나중에 한꺼번에 꾸미고 수정할 예정  
 물론 폰트도! sns 스터디 디코 추가 예정 
+_1 되어있는 건 모두 공부기록  
 
 <!--
 **SeungYeon04/SeungYeon04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
