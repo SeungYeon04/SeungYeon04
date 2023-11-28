@@ -6,6 +6,8 @@
 <body> 
   <div align=center>
 
+  font-family: 'omyu_pretty';
+
 💬 SNS 💬
   
 <a href="https://blog.naver.com/catoo_4" target="_blank"><img src="https://img.shields.io/badge/Naver Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white"></a>
@@ -20,15 +22,17 @@
 
   </div>
 
-</body>
-</a>
-
 
 배운 코드들 기록들 이것저것 모여있어요!  
 아무거나 구경해보셔요><  
 나중에 한꺼번에 꾸미고 수정할 예정  
 물론 폰트도! sns 스터디 디코 추가 예정 
 되어있는 건 모두 공부기록    
+
+</body>
+</a>
+
+
 
 
 
