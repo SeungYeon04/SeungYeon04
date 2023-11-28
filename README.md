@@ -23,6 +23,11 @@
 
   </div>
 
+
+
+</body>
+</a>
+
 <span style = "font=family: omyu_pretty; font-size: 4em;">
 배운 코드들 기록들 이것저것 모여있어요!  
 아무거나 구경해보셔요><  
@@ -30,11 +35,6 @@
 물론 폰트도! sns 스터디 디코 추가 예정 
 되어있는 건 모두 공부기록 
 </span> 
-
-</body>
-</a>
-
-
 
 
 
