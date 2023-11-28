@@ -21,6 +21,7 @@
   </div>
 
 </body>
+</a>
 <omyu_pretty>
 
 
@@ -31,7 +32,7 @@
 되어있는 건 모두 공부기록   
 </omyu_pretty>
 
-</a>
+
 
 <!--
 **SeungYeon04/SeungYeon04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
