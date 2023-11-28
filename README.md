@@ -23,7 +23,7 @@
 
   </div>
 
-<span style = "font=family: omyu_pretty; >
+<span style = "font=family: omyu_pretty; font-size: 4em;">
 배운 코드들 기록들 이것저것 모여있어요!  
 아무거나 구경해보셔요><  
 나중에 한꺼번에 꾸미고 수정할 예정  
