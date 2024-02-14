@@ -1,4 +1,4 @@
-
+//속도는 괜찮아졌는데 순간이동하는 게 문제에여!
 using System.Collections;
 using Unity.VisualScripting;
 using Unity.VisualScripting.Dependencies.Sqlite;
@@ -6,7 +6,6 @@ using UnityEngine;
 
 public class NPCController : MonoBehaviour
 {
-   
     public Transform player;
     public Transform NPCform1;
 
@@ -20,14 +19,13 @@ public class NPCController : MonoBehaviour
     
     IEnumerator MoveCoroutine()
     {
-        yield return new WaitForSeconds(1f); //1초 대기 대기명령 코루틴 
+        yield return new WaitForSeconds(0.1f); //1초 대기 대기명령 코루틴 
 
         while (currentWalkCount < WalkCount)
         {
             currentWalkCount++; 
+            Debug.Log("canMove1 = " + canMove);
 
-            if (canMove)
-            {
                 if (Input.GetKey(KeyCode.P)) //P누르면 NPC 왓슨이 홈즈 따라간다 조건은 바꾸면 된다. 
                 {
                     float HYform = 0f;
@@ -37,12 +35,12 @@ public class NPCController : MonoBehaviour
 
                     Vector3 directionToPlayer = (player.position - transform.position);
 
-                    if (Mathf.Abs(directionToPlayer.y) > 0.1f) // y 방향으로의 거리가 0.1f보다 큰 경우
+                    if (Mathf.Abs(directionToPlayer.y) > 0.2f) // y 방향으로의 거리가 0.1f보다 큰 경우
                     {
                         // y 축으로 이동
                         HYform = Mathf.Clamp(directionToPlayer.y, -1f, 1f);
                     }
-                    else if (Mathf.Abs(directionToPlayer.x) > 0.1f) // x 방향으로의 거리가 0.1f보다 큰 경우
+                    else if (Mathf.Abs(directionToPlayer.x) > 0.2f) // x 방향으로의 거리가 0.1f보다 큰 경우
                     {
                         // x 축으로 이동
                         HXform = Mathf.Clamp(directionToPlayer.x, -1f, 1f);
@@ -54,8 +52,6 @@ public class NPCController : MonoBehaviour
 
                     Debug.Log("P입력");
                 }
-                yield return new WaitForSeconds(1f);
-                currentWalkCount = 0;
 
                 if (Input.GetKey(KeyCode.L))
                 {
@@ -84,27 +80,29 @@ public class NPCController : MonoBehaviour
                     // 이동할 필요가 없으므로 걷는 애니메이션을 재생하지 않음
                     animator.SetBool("Walking", false);
                 }
-            Debug.Log("currentWalkCount = " + currentWalkCount);
-            Debug.Log("canMove = " + canMove);
-            Debug.Log("WalkCount = " + WalkCount);
-            yield return new WaitForSeconds(1f);
-            currentWalkCount = 0;
-            }
-
-
+           
         }
+        yield return new WaitForSeconds(0.1f);
+        currentWalkCount = 0;
+        canMove = true;
 
-
+        Debug.Log("currentWalkCount = " + currentWalkCount);
+        Debug.Log("canMove1 = " + canMove);
+        Debug.Log("WalkCount = " + WalkCount);
     }
- 
+
     void Update()
     {
+        
         if (canMove)
-        {
+        { 
             if (Input.GetKey(KeyCode.P) || (Input.GetKey(KeyCode.L)))
             {
+                canMove = false;
                 StartCoroutine(MoveCoroutine());
             }
+            Debug.Log("canMove2 = " + canMove);
         }
+
     }
 }
