@@ -14,11 +14,9 @@
 <a href="https://blog.naver.com/catoo_4" target="_blank"><img src="https://img.shields.io/badge/Naver Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white"></a>
 
 📚 STUDY 📚
-    
+
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"> </a>
-
-💡 ENGINE 💡
-
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"> </a>
 
   </div>
@@ -27,20 +25,6 @@
 
 </body>
 </a>
-
-<span style = "font-family: omyu_pretty; font-size: 4em;">
-배운 코드들 기록들 이것저것 모여있어요!  
-아무거나 구경해보셔요><  
-나중에 한꺼번에 꾸미고 수정할 예정  
-물론 폰트도! sns 스터디 디코 추가 예정 
-되어있는 건 모두 공부기록 
-</span> 
-
-
-
-
-
-
 
 
 <!--
