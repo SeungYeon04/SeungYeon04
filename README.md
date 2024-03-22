@@ -10,12 +10,12 @@
 
 #### 💬 SNS 💬
   
-<a href="https://blog.naver.com/catoo_4" target="_blank"><img src="https://img.shields.io/badge/BLOG-03C75A?style=for-the-badge&logo=Naver&logoColor=white"></a>
+<a href="https://blog.naver.com/catoo_4" target="_blank"><img src="https://img.shields.io/badge/BLOG-03C75A?style=flat-square&logo=Naver&logoColor=white"></a>
 
 #### 📚 STUDY 📚
   
 TOOL  
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
+<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"> 
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
   
