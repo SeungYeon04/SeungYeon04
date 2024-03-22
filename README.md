@@ -9,12 +9,12 @@
 
 
 
-💬 SNS 💬
+# 💬 SNS 💬
   
 <a href="https://blog.naver.com/catoo_4" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"></a>
 
-📚 STUDY 📚
-
+# 📚 STUDY 📚
+  
 TOOL  
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
 
