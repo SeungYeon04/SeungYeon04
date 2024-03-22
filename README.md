@@ -11,7 +11,7 @@
 
 💬 SNS 💬
   
-<a href="https://blog.naver.com/catoo_4" target="_blank"><img src="https://img.shields.io/badge/Naver Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white"></a>
+<a href="https://blog.naver.com/catoo_4" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"></a>
 
 📚 STUDY 📚
 
