@@ -15,6 +15,7 @@
 #### 💬 SNS 💬
   
 <a href="https://blog.naver.com/catoo_4" target="_blank"><img src="https://img.shields.io/badge/BLOG-03C75A?style=flat-square&logo=Naver&logoColor=white"></a>
+노션
 
 #### 📚 STUDY 📚
   
