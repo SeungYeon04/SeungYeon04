@@ -34,9 +34,9 @@ CODING
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
 
 자주 쓰는 언어 그래프 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungYeon04&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungYeon04&layout=donut)](https://github.com/anuraghazra/github-readme-stats)<br>
 최근 업데이트 점수 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungYeon04&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungYeon04&show_icons=true)<br><br>
 
   </div>
 
