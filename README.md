@@ -33,7 +33,9 @@ CODING
 <image src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
 
+자주 쓰는 언어 그래프 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungYeon04&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+최근 업데이트 점수 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungYeon04&show_icons=true)
 
   </div>
