@@ -7,10 +7,9 @@
   <div align=center>
 
 웹은 이름 앞에 A_ 앱은 B_ 유니티는 C_ 정렬
-토깽이 mbti 테스트 했던 거 파일 잃어버림 하하  
 
 
-#### 💬 SNS 💬
+🧸 About Me 🧸
   
 <a href="https://blog.naver.com/catoo_4" target="_blank"><img src="https://img.shields.io/badge/BLOG-03C75A?style=flat-square&logo=Naver&logoColor=white"></a>
 <a href="https://purple-tail-e77.notion.site/b3a4e9bf905f4ed28251a383aec9d9e3?pvs=74"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"></a>
@@ -34,6 +33,7 @@ CODING
 <image src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
   </div>
 
