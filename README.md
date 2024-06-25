@@ -35,7 +35,8 @@ CODING
 
 자주 쓰는 언어 그래프 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungYeon04&layout=donut)](https://github.com/anuraghazra/github-readme-stats)<br>
-최근 업데이트 점수 <br>
+<br>
+최근 깃허브 점수 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungYeon04&show_icons=true)<br><br>
 
   </div>
