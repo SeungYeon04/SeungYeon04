@@ -24,7 +24,7 @@
   TOOL 
 </summary>
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"><br>
-![Xshell](https://img.shields.io/badge/Xshell-0033A0?style=flat-square&logo=Xshell&logoColor=white)<br>
+<img src="https://img.shields.io/badge/Xshell-0033A0?style=flat-square&logo=Xshell&logoColor=white"><br>
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white)<br>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)<br>
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)<br>
