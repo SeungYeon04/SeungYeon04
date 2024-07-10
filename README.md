@@ -1,4 +1,5 @@
 <body> 
+<div>
 <details>
 <summary>
   🧸 About Me 🧸
@@ -18,7 +19,7 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white">
 </details>
-
+</div>
 <details>
 <summary>
  ENGINE
