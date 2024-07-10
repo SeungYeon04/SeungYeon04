@@ -56,7 +56,7 @@ CODING
 
 <details>
 <summary>
-my own rules(나만의 규칙) 
+my own rules<br>(나만의 규칙) 
 </summary>
 웹은 이름 앞에 A_ 앱은 B_ 유니티는 C_ 정렬
 </details><br>
