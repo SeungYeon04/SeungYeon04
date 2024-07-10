@@ -18,7 +18,7 @@
 
 <details>
 <summary>
-  TOOL 
+  🔧 TOOL 🔧 
 </summary>
 <img src="https://img.shields.io/badge/Xshell-0033A0?style=flat-square&logo=Xshell&logoColor=white">
 <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white">
@@ -28,14 +28,14 @@
 
 <details>
 <summary>
- ENGINE
+ 🚀 ENGINE 🚀
 </summary>
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white"> </a><br>
 </details>
 
 <details>
 <summary>
-IDE
+⭐️ IDE ⭐️
 </summary>
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/><br>
@@ -43,7 +43,7 @@ IDE
 
 <details>
 <summary>
-CODING  
+🌈 CODING 🌈
 </summary>
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white"> </a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
