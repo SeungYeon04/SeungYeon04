@@ -14,18 +14,17 @@
 <a href="https://blog.naver.com/catoo_4" target="_blank"><img src="https://img.shields.io/badge/BLOG-03C75A?style=flat-square&logo=Naver&logoColor=white"></a><br>
 <a href="https://purple-tail-e77.notion.site/b3a4e9bf905f4ed28251a383aec9d9e3?pvs=74"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"></a><br>
 <a href="https://www.instagram.com/druiddroing"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a><br>
-</details><br>
-
+</details>
 
 <details>
 <summary>
   TOOL 
 </summary>
-<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"><br>
-<img src="https://img.shields.io/badge/Xshell-0033A0?style=flat-square&logo=Xshell&logoColor=white"><br>
-<img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white"><br>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"><br>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"><br>
+<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Xshell-0033A0?style=flat-square&logo=Xshell&logoColor=white">
+<img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white">
 </details>
 
 <details>
