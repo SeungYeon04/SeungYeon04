@@ -1,4 +1,6 @@
 <body> 
+내 소개: 
+정렬방식: 웹은 이름 앞에 A_ 앱은 B_ 유니티는 C_ 정렬  
 
 <details>
 <summary>
@@ -45,14 +47,6 @@ CODING
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
 </details>
 
-
-<details>
-<summary>
-Memo
-</summary>
-웹은 이름 앞에 A_ 앱은 B_ 유니티는 C_ 정렬  
-<a href="https://velog.io/@easyhwan/GitHub-%EB%82%98%EC%9D%98-%EA%B9%83%ED%97%88%EB%B8%8C-%EB%8C%80%EB%AC%B8-%EA%BE%B8%EB%AF%B8%EA%B8%B0">꾸미기 참고링크</a>
-</details><br>
 <br>
 <hr><br>
 
