@@ -53,7 +53,8 @@ Memo
 <a href="https://velog.io/@easyhwan/GitHub-%EB%82%98%EC%9D%98-%EA%B9%83%ED%97%88%EB%B8%8C-%EB%8C%80%EB%AC%B8-%EA%BE%B8%EB%AF%B8%EA%B8%B0">꾸미기 참고링크</a>
 </details><br>
 <br>
-<hr>
+<hr><br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungYeon04&layout=donut)](https://github.com/anuraghazra/github-readme-stats) 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungYeon04&show_icons=true)]<br><br>
 
