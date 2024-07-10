@@ -13,8 +13,7 @@
   
 <a href="https://blog.naver.com/catoo_4" target="_blank"><img src="https://img.shields.io/badge/BLOG-03C75A?style=flat-square&logo=Naver&logoColor=white"></a>
 <a href="https://purple-tail-e77.notion.site/b3a4e9bf905f4ed28251a383aec9d9e3?pvs=74"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"></a><br>
-<a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-출처: https://hulrud.tistory.com/3 [주독야독:티스토리]
+<a href="https://www.instagram.com/druiddroing"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a><br>
 TOOL<br>
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
 ![Xshell](https://img.shields.io/badge/Xshell-0033A0?style=flat-square&logo=Xshell&logoColor=white)
