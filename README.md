@@ -26,14 +26,14 @@
 <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white"><br>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"><br>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"><br>
-</details><br>
+</details>
 
 <details>
 <summary>
  ENGINE
 </summary>
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white"> </a><br>
-</details><br>
+</details>
 
 <details>
 <summary>
@@ -41,7 +41,7 @@ IDE
 </summary>
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/><br>
-</details><br>
+</details>
 
 <details>
 <summary>
@@ -51,12 +51,12 @@ CODING
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <image src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
-</details><br>
+</details>
 
 
 <details>
 <summary>
-my own rules<br>(나만의 규칙) 
+Memo
 </summary>
 웹은 이름 앞에 A_ 앱은 B_ 유니티는 C_ 정렬  
 <a href="https://velog.io/@easyhwan/GitHub-%EB%82%98%EC%9D%98-%EA%B9%83%ED%97%88%EB%B8%8C-%EB%8C%80%EB%AC%B8-%EA%BE%B8%EB%AF%B8%EA%B8%B0">꾸미기 참고링크</a>
