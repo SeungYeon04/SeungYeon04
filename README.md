@@ -6,8 +6,6 @@
  
   <div align=center>
 
-웹은 이름 앞에 A_ 앱은 B_ 유니티는 C_ 정렬
-
 
 <details>
 <summary>
@@ -53,6 +51,14 @@ CODING
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <image src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
+</details><br>
+
+
+<details>
+<summary>
+my own rules(나만의 규칙) 
+</summary>
+웹은 이름 앞에 A_ 앱은 B_ 유니티는 C_ 정렬
 </details><br>
 
 <hr>
