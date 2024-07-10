@@ -1,12 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Druids&nbsp;Developer&fontSize=40&fontAlign=25&fontColor=FFFFFF&animation=fadeIn&height=170&fontAlignY=35&color=timeGradient)
- 
-
-
 <body> 
- 
-  <div align=center>
-
-
 <details>
 <summary>
   🧸 About Me 🧸
@@ -69,7 +61,6 @@ Memo
 최근 깃허브 점수 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungYeon04&show_icons=true)<br><br>
 
-  </div>
 
 
 
