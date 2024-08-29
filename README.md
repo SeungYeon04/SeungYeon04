@@ -47,9 +47,11 @@
 🌈 CODING 🌈
 </summary>
 <img src="https://img.shields.io/badge/C%23-%23239120?style=flat-square&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" alt="C%23-%23239120"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=(https://github.com/user-attachments/assets/9e568ec8-0a3c-4b86-b7c4-a072601909e6)&logoColor=white"/>
 <image src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
+
+
 
 </details>
 
