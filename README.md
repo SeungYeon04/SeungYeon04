@@ -67,8 +67,7 @@
   .badge img {
     vertical-align: middle; /* 이미지 수직 정렬 */
     height: 16px; /* 이미지 높이 조정 */
-  }"
-  >
+  }">
 
 
 </details>
