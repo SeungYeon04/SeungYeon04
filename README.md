@@ -47,10 +47,6 @@
 🌈 CODING 🌈
 </summary>
 <img src="https://img.shields.io/badge/C%23-%23239120?style=flat-square&logo=csharp&logoColor=white"/>
-
-  <img src="https://user-images.githubusercontent.com/your-username/your-repository/path/to/image.png" alt="C# Logo" style="width: 100px; height: auto;">
-
-
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <image src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
