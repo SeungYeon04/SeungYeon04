@@ -47,28 +47,9 @@
 🌈 CODING 🌈
 </summary>
 <img src="https://img.shields.io/badge/C%23-%23239120?style=flat-square&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" alt="C#"/>
 <image src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
-
-<img src="https://github.com/user-attachments/assets/9e568ec8-0a3c-4b86-b7c4-a072601909e6" alt="C# Logo" style="width: 100px; height: auto;" 
-  style="badge {
-    display: inline-block;
-    background-color: #1572B6; /* 배경 색상 */
-    color: white; /* 텍스트 색상 */
-    padding: 5px 10px; /* 패딩 */
-    border-radius: 4px; /* 모서리 둥글기 */
-    font-family: sans-serif; /* 폰트 패밀리 */
-    text-align: center; /* 텍스트 정렬 */
-    text-decoration: none; /* 링크 텍스트 장식 제거 */
-    font-size: 14px; /* 폰트 크기 */
-    line-height: 20px; /* 줄 높이 */
-  }
-  .badge img {
-    vertical-align: middle; /* 이미지 수직 정렬 */
-    height: 16px; /* 이미지 높이 조정 */
-  }">
-
 
 </details>
 
