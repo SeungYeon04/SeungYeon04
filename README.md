@@ -48,10 +48,10 @@
 </summary>
 <img src="https://img.shields.io/badge/C%23-%23239120?style=flat-square&logo=csharp&logoColor=white"/>
   
-<div class="badge" style="background-color:  #232391; padding: 10px;">
+<span class="badge" style="background-color: #232391; padding: 10px;">
   <img src="https://github.com/user-attachments/assets/9e568ec8-0a3c-4b86-b7c4-a072601909e6" style="height: 16px; margin-right: 5px;">
   C#
-</div>
+</span>
   
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <image src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
