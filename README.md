@@ -47,7 +47,6 @@
 🌈 CODING 🌈
 </summary>
 <img src="https://img.shields.io/badge/C%23-%23239120?style=flat-square&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-%23239120?style=flat-square&logo=csharp&logoColor=white"/>
 
 <div>
 <span style="background-color: red;"> 
