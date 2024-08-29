@@ -51,9 +51,7 @@
 <image src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
 
-![C#](https://img.shields.io/badge/C%23-%23239120?style=flat-square&logo=csharp&logoColor=white)
-
-
+<img src="https://github.com/user-attachments/assets/9e568ec8-0a3c-4b86-b7c4-a072601909e6" alt="C# Logo" style="width: 100px; height: auto;">
 
 
 </details>
