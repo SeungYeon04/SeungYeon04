@@ -47,10 +47,12 @@
 🌈 CODING 🌈
 </summary>
 <img src="https://img.shields.io/badge/C%23-%23239120?style=flat-square&logo=csharp&logoColor=white"/>
-  
-<div class="badge">
-  <img src="https://github.com/user-attachments/assets/9e568ec8-0a3c-4b86-b7c4-a072601909e6" style=" width: 10px;">
+
+<div>
+<div class="badge" style="background-color: green">
+  <img src="https://github.com/user-attachments/assets/9e568ec8-0a3c-4b86-b7c4-a072601909e6" style=" width: 15px;">
   C#
+</div>
 </div>
 
   
