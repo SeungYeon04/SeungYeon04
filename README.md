@@ -53,12 +53,10 @@
   C#
 </span>
 
-<!-- 간단한 HTML 배지 스타일 -->
-<span style="display: inline-flex; align-items: center; padding: 5px 10px; border-radius: 4px;">
+<span style="display: inline-flex; align-items: center; padding: 5px 10px; border-radius: 4px; background-color: #232391; color: white;">
   <img src="https://github.com/user-attachments/assets/9e568ec8-0a3c-4b86-b7c4-a072601909e6" alt="C# Logo" style="height: 16px; margin-right: 5px;">
-  <span style="color: white;">C#</span>
+  C#
 </span>
-
   
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <image src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
