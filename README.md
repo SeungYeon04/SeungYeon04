@@ -48,7 +48,9 @@
 </summary>
 <img src="https://img.shields.io/badge/C%23-%23239120?style=flat-square&logo=csharp&logoColor=white"/>
 
-  ![C#](https://img.shields.io/badge/C%23-%23239120?style=flat-square&logo=csharp&logoColor=white)
+<a href="https://example.com" target="_blank">
+  <img src="https://user-images.githubusercontent.com/12345678/abcdefg.png" alt="C# Logo" style="width: 100px; height: auto;">
+</a>
 
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
