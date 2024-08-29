@@ -26,7 +26,6 @@
 <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white">
-  <img src="https://badgen.net/badge/C%23/-%23239120?icon=csharp" alt="C#"/>
 </details>
 
 <details>
@@ -52,6 +51,9 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <image src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
+
+  ![C#](https://img.shields.io/badge/C%23-%23239120?style=flat-square&logo=csharp&logoColor=white)
+
 </details>
 
 <br>
