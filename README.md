@@ -7,8 +7,6 @@
 <li> 목표 언어: C#, js + react (그 외는 아직 모르겠다)</li>
 <br>
 
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=SeungYeon04)](https://solved.ac/SeungYeon04)
-
 <details>
 <summary>
   🧸 About Me 🧸
