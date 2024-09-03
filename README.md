@@ -68,7 +68,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeungYeon04&layout=donut" alt="Top Langs" style="width: 45%;" />
- <img src="http://mazandi.herokuapp.com/api?handle={SeungYeon04}&theme=warm"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SeungYeon04&show_icons=true" alt="GitHub Stats" style="width: 45%;" />
 </div>
 
 <br>
@@ -79,5 +79,7 @@
 </a>
 <img src="http://mazandi.herokuapp.com/api?handle={SeungYeon04}&theme=warm"/>
 </div>
+
+<img src="http://mazandi.herokuapp.com/api?handle={SeungYeon04}&theme=warm"/>
 
 </body>
