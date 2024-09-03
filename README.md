@@ -76,7 +76,7 @@
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{SeungYeon04}" style="width: 45%";/>
 </a>
-  <a href="https://github.com/devxb/gitanimals" style="width: 45%>
+  <a href="https://github.com/devxb/gitanimals" >
   <img src="https://render.gitanimals.org/farms/{SeungYeon04}";/>
 </a>
 
