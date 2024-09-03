@@ -77,9 +77,10 @@
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{SeungYeon04}" style="width: 45%";/>
 </a>
-<img src="http://mazandi.herokuapp.com/api?handle={SeungYeon04}&theme=warm"/>
-</div>
 
-<img src="http://mazandi.herokuapp.com/api?handle={SeungYeon04}&theme=warm"/>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=SeungYeon04)](https://solved.ac/SeungYeon04)
+
+</div>
 
 </body>
