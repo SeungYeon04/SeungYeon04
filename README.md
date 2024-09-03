@@ -67,7 +67,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeungYeon04&layout=donut" alt="Top Langs" style="width: 45%; margin-right: 5%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeungYeon04&layout=donut" alt="Top Langs" style="width: 45%;" />
   <img src="https://github-readme-stats.vercel.app/api?username=SeungYeon04&show_icons=true" alt="GitHub Stats" style="width: 45%;" />
 </div>
 
