@@ -78,7 +78,8 @@
   <img src="https://render.gitanimals.org/farms/{SeungYeon04}" style="width: 45%";/>
 </a>
 
-<img src="http://mazandi.herokuapp.com/api?handle={SeungYeon04}&theme=warm"/>
+<img src="http://mazandi.herokuapp.com/api?handle=SeungYeon04&theme=warm"/>
+
 
 </div>
 
