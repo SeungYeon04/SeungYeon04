@@ -74,7 +74,10 @@
 <br>
 <div align="center">
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{SeungYeon04}" width: 45%; margin-right: 5%;/>
+  <img src="https://render.gitanimals.org/farms/{SeungYeon04}" width: 45%;/>
+</a>
+  <a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{SeungYeon04}" width: 45%;/>
 </a>
 </div>
 
