@@ -69,7 +69,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungYeon04&show_icons=true)
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{SeungYeon04}" width = 100/>
+  <img src="https://render.gitanimals.org/farms/{SeungYeon04}" width = 300/>
 </a>
 <br>
 
