@@ -6,6 +6,7 @@
 <li> 최종 목표: 직접 만든 개인 작품 출시 & 개발 회사 설립 & 한 언어는 제대로 깊이 알기.</li>
 <li> 목표 언어: C#, js + react (그 외는 아직 모르겠다)</li>
 <br>
+
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=SeungYeon04)](https://solved.ac/SeungYeon04)
 
 <details>
