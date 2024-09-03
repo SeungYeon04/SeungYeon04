@@ -20,8 +20,14 @@
 
 <details>
 <summary>
-  🔧 TOOL 🔧 
+
+<details>
+<summary>
+ 🚀 Program 🚀
 </summary>
+<img src="https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white"> </a><br>
+  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/Xshell-0033A0?style=flat-square&logo=Xshell&logoColor=white">
 <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black">
@@ -29,19 +35,6 @@
 </details>
 
 <details>
-<summary>
- 🚀 ENGINE 🚀
-</summary>
-<img src="https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white"> </a><br>
-</details>
-
-<details>
-<summary>
-⭐️ IDE ⭐️
-</summary>
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/><br>
-</details>
 
 <details>
 <summary>
