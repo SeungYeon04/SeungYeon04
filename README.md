@@ -79,7 +79,7 @@
 </a>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=SeungYeon04)](https://solved.ac/SeungYeon04)
+SeungYeon04](http://mazassumnida.wtf/api/v2/generate_badge?boj=SeungYeon04)](https://solved.ac/SeungYeon04)
 
 </div>
 
