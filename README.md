@@ -67,13 +67,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungYeon04&layout=donut)](https://github.com/anuraghazra/github-readme-stats) 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungYeon04&show_icons=true/)
+
+<br>
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{SeungYeon04}" width = 400/>
 </a>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungYeon04&show_icons=true/)
-
-<br>
 
 </body>
