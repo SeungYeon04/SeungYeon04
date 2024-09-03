@@ -77,9 +77,7 @@
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{SeungYeon04}" style="width: 45%";/>
 </a>
-  <a href="https://github.com/devxb/gitanimals" >
-  <img src="https://render.gitanimals.org/farms/{SeungYeon04}"; style="width: 45%"/>
-</a>
+<img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=cold" style="width: 45%";/>
 </div>
 
 </body>
