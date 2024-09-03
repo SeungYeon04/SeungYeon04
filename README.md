@@ -72,12 +72,12 @@
 </div>
 
 <br>
-<div align="center">
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{SeungYeon04}" width: 400;/>
+<div align="center" >
+<a href="https://github.com/devxb/gitanimals" style="width: 45%;">
+  <img src="https://render.gitanimals.org/farms/{SeungYeon04}" />
 </a>
-  <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{SeungYeon04}" width: 400;/>
+  <a href="https://github.com/devxb/gitanimals" style="width: 45%;">
+  <img src="https://render.gitanimals.org/farms/{SeungYeon04}" />
 </a>
 </div>
 
