@@ -78,8 +78,7 @@
   <img src="https://render.gitanimals.org/farms/{SeungYeon04}" style="width: 45%";/>
 </a>
 
-[![Solved.ac
-SeungYeon04](http://mazassumnida.wtf/api/v2/generate_badge?boj=SeungYeon04)](https://solved.ac/SeungYeon04)
+<img src="http://mazandi.herokuapp.com/api?handle={SeungYeon04}&theme=warm"/>
 
 </div>
 
