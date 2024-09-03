@@ -1,11 +1,11 @@
 <body>
 <h3>승연입니다.</h3>
 <hr>
-<li> my goal: 직접 만든 개인 작품 출시도 해보고 싶은 개발자입니다.</li>
+<li> myself: 직접 만든 개인 작품 출시도 해보고 싶은 개발자입니다.</li>
 <li> my position: 전주비전대 학생입니다.</li>
-<li> 깃헙 규칙: 웹은 이름 앞에 A_ 앱은 B_ 유니티는 C_ 정렬</li>
-<li> 최종 목표: 직접 만든 개인 작품 출시 & 개발 회사 설립 & 한 언어는 제대로 깊이 알기.</li>
-<li> my study: C#, js + react (그 외는 아직 모르겠다)</li>
+<li> my rules: 웹은 이름 앞에 A_ 앱은 B_ 유니티는 C_ 정렬</li>
+<li> my goal: 직접 만든 개인 작품 출시 & 개발 회사 설립 & 한 언어는 제대로 깊이 알기.</li>
+<li> my study: C#, js + react 등</li>
 <br>
 
 <details>
