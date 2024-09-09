@@ -9,6 +9,7 @@
 <li>role model: 스티브잡스</li>
 <br>
 
+<div align="center">
 <details>
 <summary>
   🧸 About Me 🧸
@@ -45,7 +46,7 @@
 <img src="https://img.shields.io/badge/react-50bcdf?style=flat-square&logo=react&logoColor=white"/>
 
 </details>
-
+</div>
 <br>
 <hr>
 <br>
