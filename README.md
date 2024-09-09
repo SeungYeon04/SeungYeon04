@@ -1,5 +1,5 @@
 <body>
-<div align="left" margin-left="20%">
+<div margin-left="20%">
 <h3>승연입니다.</h3>
 <hr>
 <li> myself: 개인 작품 출시도 해보고 싶은 작은 학생 개발자입니다.</li>
