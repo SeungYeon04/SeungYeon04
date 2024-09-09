@@ -19,7 +19,9 @@
 <a href="https://velog.io/@seungyeon04" target="_blank"><img src="https://img.shields.io/badge/BLOG(Study2)-999111?style=flat-square&logo=velog&logoColor=white"></a><br>
 <a href="https://purple-tail-e77.notion.site/b3a4e9bf905f4ed28251a383aec9d9e3?pvs=74"><img src="https://img.shields.io/badge/notion(X)-000000?style=flat-square&logo=notion&logoColor=white"></a>
 <a href="https://www.instagram.com/druiddroing"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+</details>
 
+<details>
 <summary>
  🚀 Program 🚀
 </summary>
