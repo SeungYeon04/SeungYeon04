@@ -1,6 +1,5 @@
 <body>
-<div align="center">
-  <div align="left">
+<div align="left" margin-left="20">
 <h3>승연입니다.</h3>
 <hr>
 <li> myself: 개인 작품 출시도 해보고 싶은 작은 학생 개발자입니다.</li>
@@ -8,7 +7,6 @@
 <li> my rules: 레퍼지토리 이름규칙 웹은 이름 앞에 A_ 앱은 B_ 유니티는 C_</li>
 <li> my goal: 직접 만든 개인 작품 출시 & 앱게임 회사 설립 & 한 언어는 제대로 깊이 알기.</li>
 <br>
-  </div>
 </div>
   
 <br>
