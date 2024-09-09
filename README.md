@@ -1,4 +1,5 @@
 <body>
+  <div align="center">
 <h3>승연입니다.</h3>
 <hr>
 <li> myself: 개인 작품 출시도 해보고 싶은 작은 학생 개발자입니다.</li>
@@ -8,6 +9,7 @@
 <li> my study: C#, js + react 등</li>
 <li>role model: 스티브잡스</li>
 <br>
+  </div>
 
 <div align="center">
 <details>
@@ -19,7 +21,6 @@
 <a href="https://velog.io/@seungyeon04" target="_blank"><img src="https://img.shields.io/badge/BLOG(Study2)-999111?style=flat-square&logo=velog&logoColor=white"></a><br>
 <a href="https://purple-tail-e77.notion.site/b3a4e9bf905f4ed28251a383aec9d9e3?pvs=74"><img src="https://img.shields.io/badge/notion(X)-000000?style=flat-square&logo=notion&logoColor=white"></a>
 <a href="https://www.instagram.com/druiddroing"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-
 </details>
 
 <details>
@@ -44,9 +45,9 @@
 <image src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/react-50bcdf?style=flat-square&logo=react&logoColor=white"/>
-
 </details>
 </div>
+  
 <br>
 <hr>
 <br>
