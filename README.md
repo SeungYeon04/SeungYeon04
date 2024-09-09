@@ -1,15 +1,17 @@
 <body>
-  <div align="center">
+<div align="center">
 <h3>승연입니다.</h3>
 <hr>
 <li> myself: 개인 작품 출시도 해보고 싶은 작은 학생 개발자입니다.</li>
 <li> my position: 전주비전대 학생입니다.</li>
 <li> my rules: 레퍼지토리 이름규칙 웹은 이름 앞에 A_ 앱은 B_ 유니티는 C_</li>
 <li> my goal: 직접 만든 개인 작품 출시 & 앱게임 회사 설립 & 한 언어는 제대로 깊이 알기.</li>
-<li> my study: C#, js + react 등</li>
-<li>role model: 스티브잡스</li>
 <br>
-  </div>
+</div>
+  
+<br>
+<hr>
+<br>
 
 <div align="center">
 <details>
