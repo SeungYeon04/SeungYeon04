@@ -8,12 +8,8 @@
 <li> my goal: 직접 만든 개인 작품 출시 & 앱게임 회사 설립 & 한 언어는 제대로 깊이 알기.</li>
 <br>
 </div>
-  
-<br>
-<hr>
-<br>
 
-<div align="center">
+<div>
 <details>
 <summary>
   🧸 About Me 🧸
