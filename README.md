@@ -38,7 +38,7 @@
 <summary>
 🌈 CODING 🌈
 </summary>
-<img src="https://img.shields.io/badge/C%23-9A2EFE?style=flat-square&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/C%23-3ADF00?style=flat-square&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/C-DBA901?style=flat-square&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
