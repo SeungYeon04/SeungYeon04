@@ -3,9 +3,9 @@
 <h3>승연입니다.</h3>
 <hr>
 <li> myself: 개인 작품 출시도 해보고 싶은 작은 학생 개발자입니다.</li>
-<li> my position: 전주비전대 학생입니다.</li>
+<li> my position: 전주비전대 학생입니다. 주력 언어는 C#입니다.</li>
 <li> my rules: 레퍼지토리 이름규칙 웹은 이름 앞에 A_ 언리얼은 B_ 유니티는 C_ 앱은 D_</li>
-<li> my goal: 직접 만든 개인 작품 출시 & 앱게임 회사 설립 & 한 언어는 제대로 깊이 알기.</li>
+<li> my goal: 직접 만든 개인 작품 출시 & 앱게임 회사 설립</li>
 <br>
 </div>
 
@@ -36,13 +36,19 @@
 
 <details>
 <summary>
-🌈 CODING 🌈
+🌈 Study Coding 🌈
 </summary>
 <img src="https://img.shields.io/badge/C%23-3ADF00?style=flat-square&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/C-DBA901?style=flat-square&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/react-50bcdf?style=flat-square&logo=react&logoColor=white"/>
+<br> 
+<img src="https://img.shields.io/badge/react-50bcdf?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/react-50bcdf?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/react-50bcdf?style=flat-square&logo=Dart&logoColor=white"/>
+
+  
 </details>
 </div>
   
