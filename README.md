@@ -45,7 +45,7 @@
 <img src="https://img.shields.io/badge/react-50bcdf?style=flat-square&logo=react&logoColor=white"/>
 <br> 
 <img src="https://img.shields.io/badge/java-dasdad?style=flat-square&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/python-g0bsdf?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-106393?style=flat-square&logo=Python&logoColor=white"/>
   
 </details>
 </div>
