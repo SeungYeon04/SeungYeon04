@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/Xshell-0033A0?style=flat-square&logo=Xshell&logoColor=white">
 <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white">
 </details>
 
@@ -44,7 +44,7 @@
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/react-50bcdf?style=flat-square&logo=react&logoColor=white"/>
 <br> 
-<img src="https://img.shields.io/badge/java-50bcAf?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-A0bcdf?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-D0bcdf?style=flat-square&logo=Python&logoColor=white"/>
   
 </details>
