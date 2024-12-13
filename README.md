@@ -66,6 +66,7 @@
   <img src="https://render.gitanimals.org/farms/{SeungYeon04}?pet-id=655506488434480892" style="width: 70%"/>
 </a>
 <!-- https://www.gitanimals.org/en_US/shop -->
+커밋포인트 모아서 크리스마스 하자 https://www.gitanimals.org/en_US/shop
 
 </div>
 
