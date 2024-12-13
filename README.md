@@ -63,7 +63,7 @@
 
 <div align="center">
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{SeungYeon04}?pet-id=QUOKKA" style="width: 70%"/>
+  <img src="https://render.gitanimals.org/farms/{SeungYeon04}?pet-id=642328304761674537" style="width: 70%"/>
 </a>
 
 </div>
