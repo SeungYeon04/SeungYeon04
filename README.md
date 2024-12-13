@@ -63,7 +63,7 @@
 
 <div align="center">
 <a href="https://github.com/devxb/gitanimals" >
-  <img src="https://render.gitanimals.org/farms/{SeungYeon04}" style="width: 70%", contribution-view=false;/>
+  <img src="https://render.gitanimals.org/farms/{SeungYeon04}" contribution-view="false" style="width: 70%"/>
 </a>
 
 </div>
