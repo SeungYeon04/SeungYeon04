@@ -62,11 +62,15 @@
 <br>
 
 <div align="center">
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{SeungYeon04}?pet-id=655506488434480892" style="width: 70%"/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=SeungYeon04&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/SeungYeon04"
+  width="70%"
+/>
 </a>
 <!-- https://www.gitanimals.org/en_US/shop -->
 <br>커밋포인트 모아서 크리스마스꺼 사자 https://www.gitanimals.org/en_US/shop
+
 
 </div>
 
