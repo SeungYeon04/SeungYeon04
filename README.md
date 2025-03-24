@@ -42,6 +42,12 @@
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white">
 <br>🎨 디자인 도구<br>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/Miricanvas-F24E1E?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white">
+<img src="https://img.shields.io/badge/Photoshop-00C4CC?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/UIUX-00C4CC?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/Photopea-18A497?style=flat-square&logo=photopea&logoColor=white">
+ 
 <br>🎯 커리어 플랫폼<br>
 <img src="https://img.shields.io/badge/게임잡-F24E1E?style=flat-square&logoColor=white">
 <img src="https://img.shields.io/badge/점핏-F24E1E?style=flat-square&logoColor=white">
