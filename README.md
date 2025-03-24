@@ -23,10 +23,10 @@
 
 <details>
 <summary>
- 🚀 Tools & Environment 🚀
+🚀 Tools & Environment 🚀
 </summary>
 🖥️ 개발 도구<br>
-<img src="https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white"> </a>
+<img src="https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white">
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 <br>🧰 환경 도구<br>
