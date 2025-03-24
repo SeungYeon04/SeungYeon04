@@ -38,7 +38,7 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white">
 
 💬 협업/커뮤니케이션<br>
-<img src="https://img.shields.io/badge/Discord-4A154B?style=flat-square&logo=slack&logoColor=white">
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white">
 <br>🎨 디자인 도구<br>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
