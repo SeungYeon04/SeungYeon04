@@ -29,11 +29,9 @@
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white"> </a>
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-
 🧰 환경 도구<br>
 <img src="https://img.shields.io/badge/Xshell-0033A0?style=flat-square&logo=Xshell&logoColor=white">
 <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logoColor=white">
-
 🐧 운영체제<br>
 <img src="https://img.shields.io/badge/Linux-292929?style=flat-square&logo=Linux&logoColor=white">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white">
