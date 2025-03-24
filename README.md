@@ -12,7 +12,7 @@
 <div>
 <details>
 <summary>
-  🧸 About Me 🧸
+🧸 About Me 🧸
 </summary>
 <a href="https://blog.naver.com/catoo_4" target="_blank"><img src="https://img.shields.io/badge/BLOG(Daily)-03C75A?style=flat-square&logo=Naver&logoColor=white"></a>
 <a href="https://seungyeon04.github.io/A_Study/" target="_blank"><img src="https://img.shields.io/badge/BLOG(Study1)-000000?style=flat-square&logo=github&logoColor=white"></a>
@@ -37,17 +37,17 @@
 <br>🐧 운영체제<br>
 <img src="https://img.shields.io/badge/Linux-292929?style=flat-square&logo=Linux&logoColor=white">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white">
-
 💬 협업/커뮤니케이션<br>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white">
 <br>🎨 디자인 도구<br>
-<img src="https://img.shields.io/badge/Figma-380f00?style=flat-square&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/Miricanvas-309900?style=flat-square&logoColor=white">
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white">
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"><br>
 <img src="https://img.shields.io/badge/Photoshop-006dc1?style=flat-square&logoColor=white">
 <img src="https://img.shields.io/badge/UIUX-bc00b6?style=flat-square&logoColor=white">
 <img src="https://img.shields.io/badge/Photopea-18A497?style=flat-square&logo=photopea&logoColor=white">
+  <img src="https://img.shields.io/badge/Aseprite-7D929E?style=flat-square&logo=aseprite&logoColor=white">
 </details>
 
 <details>
