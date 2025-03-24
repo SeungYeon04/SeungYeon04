@@ -43,7 +43,7 @@
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white">
 <br>🎨 디자인 도구<br>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
-<img src="https://img.shields.io/badge/Miricanvas-01f345?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/Miricanvas-009989?style=flat-square&logoColor=white">
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white">
 <img src="https://img.shields.io/badge/Photoshop-006dc1?style=flat-square&logoColor=white">
 <img src="https://img.shields.io/badge/UIUX-bc00b6?style=flat-square&logoColor=white">
