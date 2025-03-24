@@ -40,9 +40,9 @@
 </summary>
 <img src="https://img.shields.io/badge/C%23-3ADF00?style=flat-square&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/C-DBA901?style=flat-square&logo=C&logoColor=white">
-<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/react-50bcdf?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/React-50bcdf?style=flat-square&logo=react&logoColor=white"/>
 <br> 
 <img src="https://img.shields.io/badge/java-e16500?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-106393?style=flat-square&logo=Python&logoColor=white"/>
