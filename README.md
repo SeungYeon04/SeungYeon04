@@ -37,7 +37,7 @@
 <br>🐧 운영체제<br>
 <img src="https://img.shields.io/badge/Linux-292929?style=flat-square&logo=Linux&logoColor=white">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white">
-💬 협업/커뮤니케이션<br>
+<br>💬 협업/커뮤니케이션<br>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white">
 <br>🎨 디자인 도구<br>
