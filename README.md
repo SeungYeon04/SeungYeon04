@@ -60,8 +60,8 @@
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/React-50bcdf?style=flat-square&logo=react&logoColor=white"/>
 <br> 
-<img src="https://img.shields.io/badge/java-e16500?style=flat-square&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/python-106393?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-e16500?style=flat-square&logo=eclipseide&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-106393?style=flat-square&logo=Python&logoColor=white"/>
   
 </details>
 </div>
