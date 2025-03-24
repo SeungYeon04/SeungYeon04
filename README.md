@@ -36,6 +36,17 @@
 <br>🐧 운영체제<br>
 <img src="https://img.shields.io/badge/Linux-292929?style=flat-square&logo=Linux&logoColor=white">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white">
+
+💬 협업/커뮤니케이션
+- Slack
+- Discord
+
+🎨 디자인 도구
+- Figma
+
+🎯 커리어 플랫폼
+- 게임잡
+- 점핏
 </details>
 
 <details>
