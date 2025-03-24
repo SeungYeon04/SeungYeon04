@@ -46,7 +46,7 @@
 <img src="https://img.shields.io/badge/Miricanvas-01f345?style=flat-square&logoColor=white">
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white">
 <img src="https://img.shields.io/badge/Photoshop-006dc1?style=flat-square&logoColor=white">
-<img src="https://img.shields.io/badge/UIUX-db07fc?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/UIUX-bc00b6?style=flat-square&logoColor=white">
 <img src="https://img.shields.io/badge/Photopea-18A497?style=flat-square&logo=photopea&logoColor=white">
 </details>
 
