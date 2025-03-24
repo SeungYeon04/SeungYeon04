@@ -47,7 +47,6 @@
 <img src="https://img.shields.io/badge/Photoshop-00C4CC?style=flat-square&logoColor=white">
 <img src="https://img.shields.io/badge/UIUX-00C4CC?style=flat-square&logoColor=white">
 <img src="https://img.shields.io/badge/Photopea-18A497?style=flat-square&logo=photopea&logoColor=white">
- 
 <br>🎯 커리어 플랫폼<br>
 <img src="https://img.shields.io/badge/게임잡-F24E1E?style=flat-square&logoColor=white">
 <img src="https://img.shields.io/badge/점핏-F24E1E?style=flat-square&logoColor=white">
