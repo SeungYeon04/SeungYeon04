@@ -48,13 +48,6 @@
 </div>
 
 
-<!-- 🌐 언어 사용 비율 -->
-<img src="https://raw.githubusercontent.com/SeungYeon04/github-stats-transparent/output/generated/languages.svg" width="400"/>
 
-<!-- 📊 리포지토리 통계 -->
-<img src="https://raw.githubusercontent.com/SeungYeon04/github-stats-transparent/output/generated/repos.svg" width="400"/>
-
-<!-- 📈 활동 요약 -->
-<img src="https://raw.githubusercontent.com/SeungYeon04/github-stats-transparent/output/generated/overview.svg" width="400"/>
 
 </body>
