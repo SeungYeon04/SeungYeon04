@@ -24,6 +24,7 @@
 
 <!-- 오른쪽: About Me 등 -->
 <td width="50%" align="left" valign="top">
+<div align="center">
 <details open>
 <summary>
 🧸 About Me 🧸
@@ -78,6 +79,8 @@
 <img src="https://img.shields.io/badge/Python-106393?style=flat-square&logo=Python&logoColor=white"/>
   
 </details>
+</div>
+
 </td>
 </tr></table>
 
