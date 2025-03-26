@@ -72,8 +72,8 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeungYeon04&show_icons=true" alt="GitHub Stats" style="width: 50%; height: 300;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeungYeon04&layout=donut" alt="Top Langs" style="width: 50%; height: 300;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SeungYeon04&show_icons=true" alt="GitHub Stats" style="width: 50%; height: 300px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeungYeon04&layout=donut" alt="Top Langs" style="width: 50%; height: 300px;" />
 </div>
 
 <br>
@@ -82,7 +82,7 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=SeungYeon04&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/SeungYeon04"
-  width="50%" height="300"
+  width="50%" height="300px"
 />
 </a>
 
