@@ -30,8 +30,12 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeungYeon04&show_icons=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeungYeon04&layout=donut" alt="Top Langs" />
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?SeungYeon04=dkssud8150&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?SeungYeon04=dkssud8150&theme=tokyonight&show_icons=true" width="42%" />
+</a>
 </div>
 
 <div align="center">
