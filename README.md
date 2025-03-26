@@ -6,7 +6,6 @@
 🍀 <b>my self:</b> 개인 게임, 웹게임 만들고 웹으로 모으고 싶어요<br>  
 🍀 <b>my rules:</b> 레퍼지토리 뜻 -> 웹A, 언리얼B, 유니티C, 앱D, fork F<br>  
 <br>
-<br>
 <div>
 🧸 About Me 🧸<br>
 <a href="https://blog.naver.com/catoo_4" target="_blank"><img src="https://img.shields.io/badge/BLOG(Daily)-03C75A?style=flat-square&logo=Naver&logoColor=white"></a>
@@ -28,7 +27,8 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white">
 </div>
 <br>
-
+<hr>
+<br>
 <div align="center">
 <!-- 🌈 가장 많이 사용한 언어 -->
 <img src="https://raw.githubusercontent.com/SeungYeon04/F_StatsUI/output/generated/languages.svg" width="400"/>
