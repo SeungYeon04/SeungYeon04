@@ -15,7 +15,7 @@
 🍀 <b>my rules:</b> 레퍼지토리 이름규칙 웹은 이름 앞에 A_ 언리얼은 B_ 유니티는 C_ 앱은 D_ fork는 F_<br>  
 🍀 <b>my goal:</b> 직접 만든 개인 작품 출시 앱게임 등<br>  
 하고싶은 말: 6월 방학 2개월 인턴쉽 일 구해요 광광<br>
-
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeungYeon04&layout=donut" alt="Top Langs" />
 </div>
