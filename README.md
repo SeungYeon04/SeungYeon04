@@ -9,7 +9,7 @@
 <br>
   
 <table><tr>
-<div align="center">
+<div align="center" width="100%">
 <!-- 왼쪽: 자기소개 박스 -->
 <td width="50%" align="left" valign="top">
 <br>
