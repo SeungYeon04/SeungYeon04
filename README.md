@@ -6,14 +6,14 @@
 🍀 <b>my self:</b> 개인 게임, 웹게임 만들고 웹으로 모으고 싶어요<br>  
 🍀 <b>my rules:</b> 레퍼지토리 뜻 -> 웹A, 언리얼B, 유니티C, 앱D, fork F<br>  
 <br>
-
+<br>
 <div>
 <table><tr>
 <!-- 왼쪽: 자기소개 박스 -->
 <td align="left" valign="top">
 <br>
 <div align="center">
-<details>
+<details open>
 <summary>
 🧸 About Me 🧸
 </summary>
@@ -24,7 +24,7 @@
 <a href="https://www.instagram.com/druiddroing"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </details>
 
-<details>
+<details open>
 <summary>
 🌈 Study Coding 🌈
 </summary>
@@ -45,7 +45,7 @@
 <td align="left" valign="top">
 <br>
 <div align="center">
-<details>
+<details open>
 <summary>
 🚀 Tools & Environment 🚀
 </summary>
