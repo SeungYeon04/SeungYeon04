@@ -32,13 +32,10 @@
 <div align="center">
 <!-- 🌈 가장 많이 사용한 언어 -->
 <img src="https://raw.githubusercontent.com/SeungYeon04/F_StatsUI/output/generated/languages.svg" width="400"/>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeungYeon04&theme=tokyonight&show_icons=true"/>
-</a>
-
-</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungYeon04&show_icons=true&theme=transparent)
+
+</div>
 
 <div align="center">
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=SeungYeon04&utm_content=farm">
