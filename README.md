@@ -9,6 +9,7 @@
 <table><tr>
 
 <!-- 왼쪽: 자기소개 박스 -->
+<br>
 <td width="50%" align="left" valign="top">
 🍀 <b>myself:</b> 개인 작품 출시도 해보고 싶은 작은 학생 개발자입니다. 모자라지만 열심히 공부하겠습니다!<br>  
 🍀 <b>my position:</b> 전주비전대 학생입니다. 주력 언어는 C#입니다.<br>  
@@ -23,6 +24,7 @@
 </td>
 
 <!-- 오른쪽: About Me 등 -->
+<br>
 <td width="50%" align="left" valign="top">
 <div align="center">
 <details open>
