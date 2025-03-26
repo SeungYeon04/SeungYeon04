@@ -10,7 +10,11 @@
 <br>
 </div>
 
-<div>
+<br>
+<hr>
+<br>
+
+<div  align="center">
 <details>
 <summary>
 🧸 About Me 🧸
@@ -48,7 +52,7 @@
 <img src="https://img.shields.io/badge/Photoshop-006dc1?style=flat-square&logoColor=white">
 <img src="https://img.shields.io/badge/UIUX-6b01d5?style=flat-square&logoColor=white">
 <img src="https://img.shields.io/badge/Photopea-18A497?style=flat-square&logo=photopea&logoColor=white">
-  <img src="https://img.shields.io/badge/Aseprite-7D929E?style=flat-square&logo=aseprite&logoColor=white">
+<img src="https://img.shields.io/badge/Aseprite-7D929E?style=flat-square&logo=aseprite&logoColor=white">
 </details>
 
 <details>
