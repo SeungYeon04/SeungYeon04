@@ -30,9 +30,8 @@
 <br>
 
 <div align="center">
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeungYeon04&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight"/>
-</a>
+<!-- 🌈 가장 많이 사용한 언어 -->
+<img src="https://raw.githubusercontent.com/SeungYeon04/F_StatsUI/output/generated/languages.svg" width="400"/>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=SeungYeon04&theme=tokyonight&show_icons=true"/>
 </a>
@@ -46,9 +45,5 @@
 />
 </a>
 </div>
-
-
-<!-- 🌈 가장 많이 사용한 언어 -->
-<img src="https://raw.githubusercontent.com/SeungYeon04/F_StatsUI/output/generated/languages.svg" width="400"/>
 
 </body>
