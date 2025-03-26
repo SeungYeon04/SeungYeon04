@@ -9,7 +9,7 @@
 <br>
   
 <table><tr>
-
+<div align="center">
 <!-- 왼쪽: 자기소개 박스 -->
 <td width="50%" align="left" valign="top">
 <br>
@@ -42,6 +42,7 @@
 </div>
 
 </td>
+
 
 <!-- 오른쪽: About Me 등 -->
 <td width="50%" align="left" valign="top">
