@@ -23,7 +23,7 @@
 
 <!-- 오른쪽: About Me 등 -->
 <td width="50%" align="left" valign="top">
-<details>
+<details open>
 <summary>
 🧸 About Me 🧸
 </summary>
@@ -34,7 +34,7 @@
 <a href="https://www.instagram.com/druiddroing"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </details>
 
-<details>
+<details open>
 <summary>
 🚀 Tools & Environment 🚀
 </summary>
@@ -63,7 +63,7 @@
 <img src="https://img.shields.io/badge/Aseprite-7D929E?style=flat-square&logo=aseprite&logoColor=white">
 </details>
 
-<details>
+<details open>
 <summary>
 🌈 Study Coding 🌈
 </summary>
