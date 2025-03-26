@@ -31,6 +31,20 @@
 </details>
 </div>
 
+<details open>
+<summary>
+🌈 Study Coding 🌈
+</summary>
+<img src="https://img.shields.io/badge/C%23-462679?style=flat-square&logo=.NET&logoColor=white">
+<img src="https://img.shields.io/badge/C-DBA901?style=flat-square&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/React-50bcdf?style=flat-square&logo=react&logoColor=white"/>
+<br> 
+<img src="https://img.shields.io/badge/Java-e16500?style=flat-square&logo=eclipseide&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-106393?style=flat-square&logo=Python&logoColor=white"/>
+  
+</details>
 </td>
 
 <!-- 오른쪽: About Me 등 -->
@@ -65,21 +79,6 @@
 <img src="https://img.shields.io/badge/UIUX-6b01d5?style=flat-square&logoColor=white">
 <img src="https://img.shields.io/badge/Photopea-18A497?style=flat-square&logo=photopea&logoColor=white">
 <img src="https://img.shields.io/badge/Aseprite-7D929E?style=flat-square&logo=aseprite&logoColor=white">
-</details>
-
-<details open>
-<summary>
-🌈 Study Coding 🌈
-</summary>
-<img src="https://img.shields.io/badge/C%23-462679?style=flat-square&logo=.NET&logoColor=white">
-<img src="https://img.shields.io/badge/C-DBA901?style=flat-square&logo=C&logoColor=white">
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/React-50bcdf?style=flat-square&logo=react&logoColor=white"/>
-<br> 
-<img src="https://img.shields.io/badge/Java-e16500?style=flat-square&logo=eclipseide&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-106393?style=flat-square&logo=Python&logoColor=white"/>
-  
 </details>
 </div>
 
