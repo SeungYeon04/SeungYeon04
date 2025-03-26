@@ -3,12 +3,9 @@
 <h3>승연입니다.</h3>
 <hr>
 <br>
-<div align="center">
-  <div style="display: inline-block; text-align: left;">
 🍀 <b>my self:</b> 개인 게임, 웹게임 만들고 웹으로 모으고 싶어요<br>  
 🍀 <b>my rules:</b> 레퍼지토리 뜻 -> 웹A, 언리얼B, 유니티C, 앱D, fork F<br>  
-</div>
-</div>
+
 
 <div align="center" width="100%">
 <table><tr>
