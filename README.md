@@ -62,9 +62,6 @@
 <img src="https://img.shields.io/badge/React-50bcdf?style=flat-square&logo=react&logoColor=white"/>
 <br> 
 <img src="https://img.shields.io/badge/Java-e16500?style=flat-square&logo=eclipseide&logoColor=white"/>
-
-<img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
-  
 <img src="https://img.shields.io/badge/Python-106393?style=flat-square&logo=Python&logoColor=white"/>
   
 </details>
