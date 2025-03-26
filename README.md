@@ -11,7 +11,7 @@
 <table><tr>
 <!-- 왼쪽: 자기소개 박스 -->
 <td align="left" valign="top">
- <div style="display: inline-block; text-align: left; width: 350px;">
+  <div style="display: inline-block; text-align: left; min-width: 360px;">
 <details>
 <summary>
 🧸 About Me 🧸
