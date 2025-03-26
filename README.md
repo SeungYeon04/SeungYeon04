@@ -11,7 +11,7 @@
 <div align="center">
 <table><tr>
 <!-- 왼쪽: 자기소개 박스 -->
-<td width="50%" align="left" valign="top">
+<td align="left" valign="top">
 <br>
 <div align="center">
 <details>
