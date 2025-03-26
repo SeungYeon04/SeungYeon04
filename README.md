@@ -18,6 +18,7 @@
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeungYeon04&layout=donut" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SeungYeon04&show_icons=true" alt="GitHub Stats"/>
 </div>
 </td>
 
@@ -81,22 +82,6 @@
 </tr></table>
 
 </div>
-
-<br>
-</div>
-<br> 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SeungYeon04&show_icons=true" alt="GitHub Stats" style="width: 400px; height: 200px;" />
-</div>
-
-<br>
-
-<div align="center">
-
-</div>
- 
-<br>
-
 
 <br>
 
