@@ -16,7 +16,7 @@
 🍀 <b>my goal:</b> 직접 만든 개인 작품 출시 앱게임 등<br>  
 하고싶은 말: 6월 방학 2개월 인턴쉽 일 구해요 광광<br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeungYeon04&layout=donut" alt="Top Langs" style="width: 300px; height:200px;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeungYeon04&layout=donut" alt="Top Langs" />
 </td>
 
 <!-- 오른쪽: About Me 등 -->
