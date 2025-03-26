@@ -82,7 +82,7 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=SeungYeon04&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/SeungYeon04"
-  width="60" height="60"
+  width="200" height="200"
 />
 </a>
 
