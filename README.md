@@ -10,7 +10,7 @@
 <br>
 </div>
   
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=SeungYeon04&show_icons=true" alt="GitHub Stats" style="width: 600px; height: 200px;" />
 </div>
 
