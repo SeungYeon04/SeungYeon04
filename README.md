@@ -8,7 +8,7 @@
 <br>
 <br>
 <div>
-<table  style="width: 500px;"><tr>
+<table><tr>
 <!-- 왼쪽: 자기소개 박스 -->
 <td align="left" valign="top">
 <details>
