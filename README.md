@@ -33,16 +33,19 @@
 <!-- 🌈 가장 많이 사용한 언어 -->
 <img src="https://raw.githubusercontent.com/SeungYeon04/F_StatsUI/output/generated/languages.svg" width="400"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungYeon04&show_icons=true&theme=transparent)
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=SeungYeon04&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/SeungYeon04"
+  width: 40%;
+/>
+</a>
 
 </div>
 
 <div align="center">
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=SeungYeon04&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/SeungYeon04"
-/>
-</a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungYeon04&show_icons=true&theme=transparent)
+
 <br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SeungYeon04&theme=flat&column=5)](https://github.com/dkssud8150/)
