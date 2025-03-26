@@ -5,9 +5,8 @@
 <br>
 <div align="center">
   <div style="display: inline-block; text-align: left;">
-🍀 <b>myself:</b> 개인 작품 출시를 원하는 대학생 개발자입니다. 열심히 공부하겠습니다!<br>  
-🍀 <b>my rules:</b> 레퍼지토리 앞글자 규칙<br>웹은 A_ / 언리얼은 B_ / 유니티는 C_ / 앱은 D_ / fork는 F_<br>  
-🍀 <b>my goal:</b> 직접 만든 개인 작품 출시 앱게임 등<br>  
+🍀 <b>my self:</b> 개인 게임, 웹게임 만들고 웹으로 모으고 싶어요<br>  
+🍀 <b>my rules:</b> 레퍼지토리 뜻 -> 웹A, 언리얼B, 유니티C, 앱D, fork F<br>  
 </div>
 </div>
 
