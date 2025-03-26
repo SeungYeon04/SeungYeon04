@@ -7,9 +7,9 @@
 🍀 <b>my rules:</b> 레퍼지토리 앞글자 규칙<br>웹은 A_ / 언리얼은 B_ / 유니티는 C_ / 앱은 D_ / fork는 F_<br>  
 🍀 <b>my goal:</b> 직접 만든 개인 작품 출시 앱게임 등<br>  
 <br>
-  
-<table><tr>
+
 <div align="center" width="100%">
+<table><tr>
 <!-- 왼쪽: 자기소개 박스 -->
 <td width="50%" align="left" valign="top">
 <br>
