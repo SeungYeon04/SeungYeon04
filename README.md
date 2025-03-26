@@ -38,6 +38,8 @@
 
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungYeon04&show_icons=true&theme=transparent)
+
 <div align="center">
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=SeungYeon04&utm_content=farm">
 <img
