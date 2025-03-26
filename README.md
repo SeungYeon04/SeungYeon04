@@ -8,10 +8,9 @@
 <br>
 <br>
 <div>
-<table><tr>
+<table  style="width: 360px;"><tr>
 <!-- 왼쪽: 자기소개 박스 -->
 <td align="left" valign="top">
-  <div style="display: inline-block; text-align: left; min-width: 360px;">
 <details>
 <summary>
 🧸 About Me 🧸
@@ -37,7 +36,6 @@
 <img src="https://img.shields.io/badge/Python-106393?style=flat-square&logo=Python&logoColor=white"/>
   
 </details>
-</div>
 </td>
 
 </td>
