@@ -5,29 +5,20 @@
 
 <div align="center">
 
-<table><tr><td width="500px" align="left">
 
+<table><tr>
+
+<!-- 왼쪽: 자기소개 박스 -->
+<td width="50%" align="left" valign="top">
 🍀 <b>myself:</b> 개인 작품 출시도 해보고 싶은 작은 학생 개발자입니다. 모자라지만 열심히 공부하겠습니다!<br>  
 🍀 <b>my position:</b> 전주비전대 학생입니다. 주력 언어는 C#입니다.<br>  
 🍀 <b>my rules:</b> 레퍼지토리 이름규칙 웹은 이름 앞에 A_ 언리얼은 B_ 유니티는 C_ 앱은 D_ fork는 F_<br>  
 🍀 <b>my goal:</b> 직접 만든 개인 작품 출시 앱게임 등<br>  
 하고싶은 말: 6월 방학 2개월 인턴쉽 일 구해요 광광<br>
+</td>
 
-</td></tr></table>
-
-</div>
-
-<br>
-</div>
-<br> 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeungYeon04&layout=donut" alt="Top Langs" style="width: 300px; height:200px;" />
-<img src="https://github-readme-stats.vercel.app/api?username=SeungYeon04&show_icons=true" alt="GitHub Stats" style="width: 400px; height: 200px;" />
-</div>
-
-<br>
-
-<div align="center">
+<!-- 오른쪽: About Me 등 -->
+<td width="50%" align="left" valign="top">
 <details>
 <summary>
 🧸 About Me 🧸
@@ -82,6 +73,23 @@
 <img src="https://img.shields.io/badge/Python-106393?style=flat-square&logo=Python&logoColor=white"/>
   
 </details>
+</td>
+</tr></table>
+
+</div>
+
+<br>
+</div>
+<br> 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeungYeon04&layout=donut" alt="Top Langs" style="width: 300px; height:200px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=SeungYeon04&show_icons=true" alt="GitHub Stats" style="width: 400px; height: 200px;" />
+</div>
+
+<br>
+
+<div align="center">
+
 </div>
  
 <br>
