@@ -14,7 +14,7 @@
 <td width="50%" align="left" valign="top">
 <br>
 <div align="center">
-<details open>
+<details>
 <summary>
 🧸 About Me 🧸
 </summary>
@@ -25,7 +25,7 @@
 <a href="https://www.instagram.com/druiddroing"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </details>
 
-<details open>
+<details>
 <summary>
 🌈 Study Coding 🌈
 </summary>
@@ -47,7 +47,7 @@
 <td width="50%" align="left" valign="top">
 <br>
 <div align="center">
-<details open>
+<details>
 <summary>
 🚀 Tools & Environment 🚀
 </summary>
