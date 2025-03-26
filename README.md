@@ -89,14 +89,14 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=SeungYeon04&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/SeungYeon04"
-  width="50%" height="200px"
+  width="40%" height="200px"
 />
 </a>
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=SeungYeon04&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/SeungYeon04"
-  width="50%" height="200px"
+  width="40%" height="200px"
 />
 </a>
 </div>
