@@ -48,6 +48,13 @@
 </div>
 
 
+<!-- 🌈 가장 많이 사용한 언어 -->
+<img src="https://raw.githubusercontent.com/SeungYeon04/github-stats-transparent/output/generated/languages.svg" width="400"/>
 
+<!-- 📊 인기 레포지토리 (있다면 아래 추가 가능) -->
+<img src="https://raw.githubusercontent.com/SeungYeon04/github-stats-transparent/output/generated/repos.svg" width="400"/>
+
+<!-- 📈 활동 요약 (원하면 추가 가능) -->
+<img src="https://raw.githubusercontent.com/SeungYeon04/github-stats-transparent/output/generated/overview.svg" width="400"/>
 
 </body>
