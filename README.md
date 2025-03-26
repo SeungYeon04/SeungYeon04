@@ -37,8 +37,8 @@
 <img src="https://img.shields.io/badge/Python-106393?style=flat-square&logo=Python&logoColor=white"/>
   
 </details>
-</td>
 </div>
+</td>
 
 </td>
 <!-- 오른쪽: About Me 등 -->
