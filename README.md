@@ -7,7 +7,7 @@
 🍀 <b>my rules:</b> 레퍼지토리 뜻 -> 웹A, 언리얼B, 유니티C, 앱D, fork F<br>  
 <br>
 <br>
-<div min-width:100%;>
+ <div style="display:inline-block; text-align:left; min-width:300px;">
 <table><tr>
 <!-- 왼쪽: 자기소개 박스 -->
 <td align="left" valign="top">
