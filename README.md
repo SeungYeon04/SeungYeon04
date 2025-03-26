@@ -8,7 +8,7 @@
 🍀 <b>my goal:</b> 직접 만든 개인 작품 출시 앱게임 등<br>  
 <br>
 
-<div align="center">
+<div align="center" width="100%">
 <table><tr>
 <!-- 왼쪽: 자기소개 박스 -->
 <td align="left" valign="top">
@@ -42,10 +42,8 @@
 </div>
 
 </td>
-
-
 <!-- 오른쪽: About Me 등 -->
-<td width="50%" align="left" valign="top">
+<td align="left" valign="top">
 <br>
 <div align="center">
 <details>
