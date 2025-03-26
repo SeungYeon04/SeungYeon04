@@ -7,12 +7,13 @@
 🍀 <b>my rules:</b> 레퍼지토리 뜻 -> 웹A, 언리얼B, 유니티C, 앱D, fork F<br>  
 <br>
 <br>
- <div style="display:inline-block; text-align:left; min-width:300px;">
+<div>
 <table><tr>
 <!-- 왼쪽: 자기소개 박스 -->
 <td align="left" valign="top">
-<br>
-<div align="center">
+  <div align="center">
+    <div style="display: inline-block; text-align: left; min-width: 330px;">
+      
 <details open>
 <summary>
 🧸 About Me 🧸
@@ -38,7 +39,10 @@
 <img src="https://img.shields.io/badge/Python-106393?style=flat-square&logo=Python&logoColor=white"/>
   
 </details>
-</div>
+    </div>
+  </div>
+</td>
+
 
 </td>
 <!-- 오른쪽: About Me 등 -->
