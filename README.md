@@ -29,7 +29,7 @@
 <a href="https://purple-tail-e77.notion.site/b3a4e9bf905f4ed28251a383aec9d9e3?pvs=74"><img src="https://img.shields.io/badge/notion(X)-000000?style=flat-square&logo=notion&logoColor=white"></a>
 <a href="https://www.instagram.com/druiddroing"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </details>
-</div>
+
 
 <details open>
 <summary>
@@ -45,6 +45,7 @@
 <img src="https://img.shields.io/badge/Python-106393?style=flat-square&logo=Python&logoColor=white"/>
   
 </details>
+</div>
 </td>
 
 <!-- 오른쪽: About Me 등 -->
