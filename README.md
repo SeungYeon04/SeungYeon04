@@ -9,7 +9,7 @@
 <li> 하고싶은 말: 6월 방학 2개월 인턴쉽 일 구해요 광광</li>
 <br>
 </div>
-  
+ <br> 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=SeungYeon04&show_icons=true" alt="GitHub Stats" style="width: 600px; height: 200px;" />
 </div>
