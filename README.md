@@ -11,9 +11,7 @@
 <table><tr>
 <!-- 왼쪽: 자기소개 박스 -->
 <td align="left" valign="top">
-  <div align="center">
-    <div style="display: inline-block; text-align: left; min-width: 330px;">
-      
+ <div style="display: inline-block; text-align: left; width: 350px;">
 <details>
 <summary>
 🧸 About Me 🧸
@@ -39,10 +37,8 @@
 <img src="https://img.shields.io/badge/Python-106393?style=flat-square&logo=Python&logoColor=white"/>
   
 </details>
-    </div>
-  </div>
 </td>
-
+</div>
 
 </td>
 <!-- 오른쪽: About Me 등 -->
