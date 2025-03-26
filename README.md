@@ -3,15 +3,17 @@
 <h3>승연입니다.</h3>
 <hr>
 
+<div align="center">
 🍀 myself: 개인 작품 출시도 해보고 싶은 작은 학생 개발자입니다. 모자라지만 열심히 공부하겠습니다!<br>
 🍀 my position: 전주비전대 학생입니다. 주력 언어는 C#입니다.<br>
 🍀 my rules: 레퍼지토리 이름규칙 웹은 이름 앞에 A_ 언리얼은 B_ 유니티는 C_ 앱은 D_ fork는 F_<br>
 🍀 my goal: 직접 만든 개인 작품 출시 앱게임 등<br>
 하고싶은 말: 6월 방학 2개월 인턴쉽 일 구해요 광광<br>
+</div>
 
 <br>
 </div>
- <br> 
+<br> 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeungYeon04&layout=donut" alt="Top Langs" style="width: 300px; height:200px;" />
 <img src="https://github-readme-stats.vercel.app/api?username=SeungYeon04&show_icons=true" alt="GitHub Stats" style="width: 400px; height: 200px;" />
