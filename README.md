@@ -44,8 +44,10 @@
   src="https://render.gitanimals.org/farms/SeungYeon04"
 />
 </a>
-</div>
+<br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SeungYeon04&theme=flat&column=5)](https://github.com/dkssud8150/)
+
+</div>
 
 </body>
