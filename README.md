@@ -17,10 +17,7 @@
 🍀 <b>my goal:</b> 직접 만든 개인 작품 출시 앱게임 등<br>  
 하고싶은 말: 6월 방학 2개월 인턴쉽 일 구해요 광광<br>
 <br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeungYeon04&show_icons=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeungYeon04&layout=donut" alt="Top Langs" />
-</div>
+
 </td>
 
 <!-- 오른쪽: About Me 등 -->
@@ -91,17 +88,14 @@
 <br>
 
 <div align="center">
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=SeungYeon04&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/SeungYeon04"
-  width="40%" height="200px"
-/>
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=SeungYeon04&show_icons=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeungYeon04&layout=donut" alt="Top Langs" />
+</div>
 
+<div align="center">
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=SeungYeon04&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/SeungYeon04"
-  width="40%" height="200px"
 />
 </a>
 </div>
