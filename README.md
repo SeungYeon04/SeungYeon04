@@ -49,8 +49,6 @@
 
 
 <!-- 🌈 가장 많이 사용한 언어 -->
-<a>
-<img src="https://raw.githubusercontent.com/SeungYeon04/github-stats-transparent/output/generated/languages.svg" width="400"/>
-</a>
+<img src="https://raw.githubusercontent.com/SeungYeon04/F_StatsUI/output/generated/languages.svg" width="400"/>
 
 </body>
