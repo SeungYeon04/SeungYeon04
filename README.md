@@ -16,8 +16,6 @@
 </div>
 
 <br>
-<hr>
-<br>
 
 <div  align="center">
 <details>
@@ -75,9 +73,7 @@
   
 </details>
 </div>
-  
-<br>
-<hr>
+ 
 <br>
 
 
