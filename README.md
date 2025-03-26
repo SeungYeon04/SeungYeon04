@@ -36,7 +36,7 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=SeungYeon04&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/SeungYeon04"
-  style="width: 45%;"
+  style="width: 300px;"
 />
 </a>
 
