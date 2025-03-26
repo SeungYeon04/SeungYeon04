@@ -46,4 +46,6 @@
 </a>
 </div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=SeungYeon04&theme=flat&column=7)](https://github.com/dkssud8150/)
+
 </body>
