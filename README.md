@@ -6,9 +6,19 @@
 디자인을 잘 하며 웹 개발과 유니티 게임 개발  
 그리고 공유기를 이용한 우분투 웹호스팅 등  
 여러 경험을 가지고 있습니다.  
-  
+<br> 
+<h2>🎓 저는 이런 개발자입니다.</h2>
+저는 제 게임으로 소통하고 즐겁길 바라고  
+제 이름이 걸린 죽어서도 유지되는  
+작품들을 많이 남기고 싶어요.  
+
+개인적으로 게임 개발을 하고 있고  
+취업은 게임과 웹 쪽으로 방향을 잡고 있으며  
+새로운 게임엔진이나, three.js  
+리액트 네이티브와 백엔드 지식 등  
+배워보고 싶은 주제들이 많습니다!  
+<br>
 <hr>
-레퍼지토리 뜻 -> 웹A, 언리얼B, 유니티C, 앱D, fork F  
 <br>
 <div>
 🧸 About Me 🧸<br>
@@ -55,5 +65,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=SeungYeon04&theme=flat&column=5)](https://github.com/dkssud8150/)
 
 </div>
-
+레퍼지토리 구분 -> 웹A, 언리얼B, 유니티C, 앱D, fork F  
 </body>
