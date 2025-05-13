@@ -72,5 +72,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=SeungYeon04&theme=flat&column=5)](https://github.com/dkssud8150/)
 
 </div>
-레퍼지토리 구분 -> 웹A, 언리얼B, 유니티C, 앱D, fork F  
+
+<h3>깃허브 레퍼지토리 구분방식</h3>
+레퍼지토리 이름 앞에 이니셜이 프로젝트 구분입니다.<br>
+웹A, 언리얼B, 유니티C, 앱D, fork F<br>
 </body>
