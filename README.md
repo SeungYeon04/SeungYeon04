@@ -28,24 +28,7 @@
   - [포트폴리오 사이트](https://mini-blog-swart-nine.vercel.app/)
 
 </details>
-  
 <br>
-<details>
-  <summary>🧸 About Me</summary>
-  
-  <a href="https://blog.naver.com/catoo_4" target="_blank"><img src="https://img.shields.io/badge/BLOG(Daily)-03C75A?style=flat-square&logo=Naver&logoColor=white"></a>
-  <a href="https://seungyeon04.github.io/A_Study/" target="_blank"><img src="https://img.shields.io/badge/BLOG(Study1)-000000?style=flat-square&logo=github&logoColor=white"></a>
-  <a href="https://purple-tail-e77.notion.site/b3a4e9bf905f4ed28251a383aec9d9e3?pvs=74"><img src="https://img.shields.io/badge/notion(X)-000000?style=flat-square&logo=notion&logoColor=white"></a>
-
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=SeungYeon04&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/SeungYeon04"
-  style="width: 400px;"
-/>
-</a>
-
-</details>
-
 <details>
   <summary>🌈 Study Stack</summary>
 <img src="https://img.shields.io/badge/C%23-462679?style=flat-square&logo=.NET&logoColor=white">
@@ -63,7 +46,8 @@
 <hr>
 <br>
 <div align="center">
-<!-- 🌈 가장 많이 사용한 언어 -->
+
+
 
 <!--  
 코테 준비할 때 백준 코테 등급도 ㄱㄱ 
@@ -72,7 +56,10 @@
 
 </div>
 
-<div align="center">
+<!--
+<div align="center"></div>
+-->
+
 <br>
 <details>
   <summary>🏆GitHub Throphies</summary>
@@ -80,7 +67,17 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=SeungYeon04&theme=flat&column=5)](https://github.com/dkssud8150/)
 
 </details>
-</div>
+<br>
+
+<details>
+  <summary>♥️GitHub Activity</summary>
+  
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=SeungYeon04&utm_content=farm">
+  <img
+    src="https://render.gitanimals.org/farms/SeungYeon04"
+    style="width: 400px;" />
+  </a>
+</details>
 
 <h3>깃허브 레퍼지토리 구분방식</h3>
 레퍼지토리 이름 앞에 이니셜이 프로젝트 구분입니다.<br>
