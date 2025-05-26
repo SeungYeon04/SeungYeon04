@@ -47,8 +47,6 @@
 <br>
 <div align="center">
 
-
-
 <!--  
 코테 준비할 때 백준 코테 등급도 ㄱㄱ 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디/)
@@ -60,14 +58,12 @@
 <div align="center"></div>
 -->
 
-<br>
 <details>
   <summary>🏆GitHub Throphies</summary>
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=SeungYeon04&theme=flat&column=5)](https://github.com/dkssud8150/)
 
 </details>
-<br>
 
 <details>
   <summary>⭐GitHub Activity</summary>
