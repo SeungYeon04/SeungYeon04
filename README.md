@@ -65,9 +65,6 @@
 </div>
 
 <div align="center">
-
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungYeon04&show_icons=true&theme=transparent) -->
-
 <br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SeungYeon04&theme=flat&column=5)](https://github.com/dkssud8150/)
