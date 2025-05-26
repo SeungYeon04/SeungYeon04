@@ -36,6 +36,14 @@
   <a href="https://blog.naver.com/catoo_4" target="_blank"><img src="https://img.shields.io/badge/BLOG(Daily)-03C75A?style=flat-square&logo=Naver&logoColor=white"></a>
   <a href="https://seungyeon04.github.io/A_Study/" target="_blank"><img src="https://img.shields.io/badge/BLOG(Study1)-000000?style=flat-square&logo=github&logoColor=white"></a>
   <a href="https://purple-tail-e77.notion.site/b3a4e9bf905f4ed28251a383aec9d9e3?pvs=74"><img src="https://img.shields.io/badge/notion(X)-000000?style=flat-square&logo=notion&logoColor=white"></a>
+
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=SeungYeon04&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/SeungYeon04"
+  style="width: 400px;"
+/>
+</a>
+
 </details>
 
 <details>
@@ -61,13 +69,6 @@
 코테 준비할 때 백준 코테 등급도 ㄱㄱ 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디/)
 -->
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=SeungYeon04&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/SeungYeon04"
-  style="width: 400px;"
-/>
-</a>
 
 </div>
 
