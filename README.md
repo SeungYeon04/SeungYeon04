@@ -29,7 +29,10 @@
 
 </details>
 
-![SeungYeon04 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=SeungYeon04)
+<details>
+  <summary>🌈 Study Stack</summary>
+![SeungYeon04 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=SeungYeon04)  
+</details>
 
 <details>
   <summary>🌈 Study Stack</summary>
@@ -57,6 +60,7 @@
   <summary>🏆GitHub Throphies</summary>
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=p4430017)](https://solved.ac/p4430017/)  
+  ![SeungYeon04 github-trophies](https://stats.dooboo.io/api/github-trophies?login=SeungYeon04)  
   [![trophy](https://github-profile-trophy.vercel.app/?username=SeungYeon04&theme=flat&column=5)](https://github.com/dkssud8150/)  
 
 </details>
