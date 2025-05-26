@@ -28,7 +28,7 @@
   - [포트폴리오 사이트](https://mini-blog-swart-nine.vercel.app/)
 
 </details>
-<br>
+
 <details>
   <summary>🌈 Study Stack</summary>
 <img src="https://img.shields.io/badge/C%23-462679?style=flat-square&logo=.NET&logoColor=white">
@@ -42,7 +42,6 @@
 <img src="https://img.shields.io/badge/Linux-292929?style=flat-square&logo=Linux&logoColor=white">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white">
 </details>
-<br>
 
 <div align="center">
 
