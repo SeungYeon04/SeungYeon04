@@ -31,10 +31,9 @@
 
 <details open>
   <summary>📊GitHub Stats</summary>
-<div style="width: 400px;" >
   
   ![SeungYeon04 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=SeungYeon04)  
-  
+
 </div>
 
   
