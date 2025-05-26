@@ -70,7 +70,7 @@
 <br>
 
 <details>
-  <summary>♥️GitHub Activity</summary>
+  <summary>⭐GitHub Activity</summary>
   
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=SeungYeon04&utm_content=farm">
   <img
