@@ -53,7 +53,10 @@
 <br>
 <div align="center">
 <!-- 🌈 가장 많이 사용한 언어 -->
+
+<!--  
 <img src="https://raw.githubusercontent.com/SeungYeon04/F_StatsUI/output/generated/languages.svg" width="400"/>
+-->
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=SeungYeon04&utm_content=farm">
 <img
@@ -67,6 +70,7 @@
 <div align="center">
 <br>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=SeungYeon04&theme=flat&column=5)](https://github.com/dkssud8150/)
 
 </div>
 
