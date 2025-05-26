@@ -29,8 +29,8 @@
 
 </details>
 
-<details>
-  <summary>🌈 Study Stack</summary>
+<details open>
+  <summary>📊GitHub Stats</summary>
 ![SeungYeon04 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=SeungYeon04)  
 </details>
 
@@ -48,9 +48,6 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white">
 </details>
 
-<div align="center">
-
-</div>
 
 <!--
 <div align="center"></div>
