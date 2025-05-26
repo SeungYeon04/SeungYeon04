@@ -55,7 +55,8 @@
 <!-- 🌈 가장 많이 사용한 언어 -->
 
 <!--  
-<img src="https://raw.githubusercontent.com/SeungYeon04/F_StatsUI/output/generated/languages.svg" width="400"/>
+코테 준비할 때 백준 코테 등급도 ㄱㄱ 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디/)
 -->
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=SeungYeon04&utm_content=farm">
