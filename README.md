@@ -29,17 +29,6 @@
 
 </details>
 
-<details open>
-  <summary>📊GitHub Stats</summary>
-  
-  ![SeungYeon04 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=SeungYeon04)  
-
-</div>
-
-  
-
-</details>
-
 <details>
   <summary>🌈 Study Stack</summary>
 <img src="https://img.shields.io/badge/C%23-462679?style=flat-square&logo=.NET&logoColor=white">
@@ -54,6 +43,17 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white">
 </details>
 
+
+<details open>
+  <summary>📊GitHub Stats</summary>
+  
+  ![SeungYeon04 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=SeungYeon04)  
+
+</div>
+
+  
+
+</details>
 
 <!--
 <div align="center"></div>
