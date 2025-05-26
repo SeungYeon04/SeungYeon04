@@ -24,20 +24,22 @@
 <br>
 <details>
   <summary>📌My Project</summary>
+  
   - [포트폴리오 사이트](https://mini-blog-swart-nine.vercel.app/)
+
 </details>
   
 <br>
-<hr>
-<br>
-<div>
-🧸 About Me 🧸<br>
-<a href="https://blog.naver.com/catoo_4" target="_blank"><img src="https://img.shields.io/badge/BLOG(Daily)-03C75A?style=flat-square&logo=Naver&logoColor=white"></a>
-<a href="https://seungyeon04.github.io/A_Study/" target="_blank"><img src="https://img.shields.io/badge/BLOG(Study1)-000000?style=flat-square&logo=github&logoColor=white"></a>
-<a href="https://purple-tail-e77.notion.site/b3a4e9bf905f4ed28251a383aec9d9e3?pvs=74"><img src="https://img.shields.io/badge/notion(X)-000000?style=flat-square&logo=notion&logoColor=white"></a>
+<details>
+  <summary>🧸 About Me</summary>
+  
+  <a href="https://blog.naver.com/catoo_4" target="_blank"><img src="https://img.shields.io/badge/BLOG(Daily)-03C75A?style=flat-square&logo=Naver&logoColor=white"></a>
+  <a href="https://seungyeon04.github.io/A_Study/" target="_blank"><img src="https://img.shields.io/badge/BLOG(Study1)-000000?style=flat-square&logo=github&logoColor=white"></a>
+  <a href="https://purple-tail-e77.notion.site/b3a4e9bf905f4ed28251a383aec9d9e3?pvs=74"><img src="https://img.shields.io/badge/notion(X)-000000?style=flat-square&logo=notion&logoColor=white"></a>
+</details>
 
-<br>
-🌈 Study Stack 🌈<br>
+<details>
+  <summary>🌈 Study Stack</summary>
 <img src="https://img.shields.io/badge/C%23-462679?style=flat-square&logo=.NET&logoColor=white">
 <img src="https://img.shields.io/badge/C-DBA901?style=flat-square&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
@@ -48,7 +50,7 @@
 <img src="https://img.shields.io/badge/Python-106393?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-292929?style=flat-square&logo=Linux&logoColor=white">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white">
-</div>
+</details>
 <br>
 <hr>
 <br>
