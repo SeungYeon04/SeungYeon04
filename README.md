@@ -43,8 +43,7 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white">
 </details>
 <br>
-<hr>
-<br>
+
 <div align="center">
 
 <!--  
