@@ -72,7 +72,6 @@
 <br>
 <details>
   <summary>🏆GitHub Throphies</summary>
-  <a href="https://stats.hyo.dev"><img src="https://stats.hyo.dev/api/github-trophies?login=SeumgYeon04" width="600" /></a>
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=SeungYeon04&theme=flat&column=5)](https://github.com/dkssud8150/)
 
