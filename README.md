@@ -54,8 +54,8 @@
 <details>
   <summary>🏆GitHub Throphies</summary>
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=SeungYeon04&theme=flat&column=5)](https://github.com/dkssud8150/)  
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=p4430017)](https://solved.ac/p4430017/)  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=SeungYeon04&theme=flat&column=5)](https://github.com/dkssud8150/)  
 
 </details>
 
