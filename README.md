@@ -29,6 +29,8 @@
 
 </details>
 
+![SeungYeon04 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=SeungYeon04)
+
 <details>
   <summary>🌈 Study Stack</summary>
 <img src="https://img.shields.io/badge/C%23-462679?style=flat-square&logo=.NET&logoColor=white">
