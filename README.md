@@ -31,7 +31,14 @@
 
 <details open>
   <summary>📊GitHub Stats</summary>
-![SeungYeon04 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=SeungYeon04)  
+<div style="width: 400px;" >
+  
+  ![SeungYeon04 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=SeungYeon04)  
+  
+</div>
+
+  
+
 </details>
 
 <details>
