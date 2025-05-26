@@ -103,7 +103,8 @@
 
 <details>
   <summary>🏆GitHub Throphies</summary>
-  <a href="https://stats.hyo.dev"><img src="https://stats.hyo.dev/api/github-trophies?login=hyochan" width="600" /></a>
+
+  <a href="https://stats.hyo.dev"><img src="https://stats.hyo.dev/api/github-trophies?login=SeumgYeon04" width="600" /></a>
 
 </details>
 
