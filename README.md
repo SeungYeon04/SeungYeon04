@@ -70,12 +70,50 @@
 
 <div align="center">
 <br>
+<details>
+  <summary>🏆GitHub Throphies</summary>
+  <a href="https://stats.hyo.dev"><img src="https://stats.hyo.dev/api/github-trophies?login=SeumgYeon04" width="600" /></a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SeungYeon04&theme=flat&column=5)](https://github.com/dkssud8150/)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=SeungYeon04&theme=flat&column=5)](https://github.com/dkssud8150/)
 
+</details>
 </div>
 
 <h3>깃허브 레퍼지토리 구분방식</h3>
 레퍼지토리 이름 앞에 이니셜이 프로젝트 구분입니다.<br>
 웹A, 언리얼B, 유니티C, 앱D, fork F<br>
 </body>
+
+
+
+<!-- 
+포크한 거 
+
+<details open>
+  <summary>🌐Socials</summary>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hyo-chan-jang-b88a82192) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@crossplatformkorea) 
+  
+</details>
+
+<details open>
+  <summary>📊GitHub Stats</summary>
+  <a href="https://stats.hyo.dev"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=hyochan" width="600" /></a>
+
+</details>
+
+<details>
+  <summary>🏆GitHub Throphies</summary>
+  <a href="https://stats.hyo.dev"><img src="https://stats.hyo.dev/api/github-trophies?login=hyochan" width="600" /></a>
+
+</details>
+
+<details>
+  <summary>💻Tech Stack</summary>
+  기술스택 
+  
+</details>
+
+<a href="https://stats.hyo.dev"><img src="https://github-readme-stats.vercel.app/api?username=hyochan&show_icons=true&theme=radical" width="480" /></a>
+
+-->
