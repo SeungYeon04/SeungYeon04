@@ -25,7 +25,7 @@
 <details open>
   <summary>📌My Project</summary>
   
-  - [포트폴리오 사이트](https://mini-blog-swart-nine.vercel.app/)
+  - [나의 포트폴리오 소개 사이트](https://mini-blog-swart-nine.vercel.app/)
 
 </details>
 
