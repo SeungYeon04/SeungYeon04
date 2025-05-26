@@ -64,7 +64,7 @@
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=p4430017)](https://solved.ac/p4430017/)  
   
-    ![SeungYeon04 github-trophies](https://stats.dooboo.io/api/github-trophies?login=SeungYeon04)  
+  ![SeungYeon04 github-trophies](https://stats.dooboo.io/api/github-trophies?login=SeungYeon04)  
    
   [![trophy](https://github-profile-trophy.vercel.app/?username=SeungYeon04&theme=flat&column=5)](https://github.com/dkssud8150/)  
 
