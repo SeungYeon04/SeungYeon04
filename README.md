@@ -22,9 +22,10 @@
 리액트 네이티브와 백엔드 지식 등..<br>
 배워보고 싶은 주제들이 많습니다!<br>
 <br>
-<h3>📌 나의 프로젝트</h3>
-  
-- [포트폴리오 사이트](https://mini-blog-swart-nine.vercel.app/)
+<details>
+  <summary>📌My Project</summary>
+  - [포트폴리오 사이트](https://mini-blog-swart-nine.vercel.app/)
+</details>
   
 <br>
 <hr>
