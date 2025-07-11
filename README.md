@@ -24,6 +24,9 @@
 엔진이나 프레임워크 개발 등<br>
 배워보고 싶은 주제들이 많습니다!<br>
 <br>
+현재 깃허브 메인 C# 게임프로젝트와 앱개발은<br>
+private로 설정 되어있을 수 있습니다.<br>
+<br>
 <details open>
   <summary>📌My Project</summary>
   
