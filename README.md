@@ -33,6 +33,7 @@ private로 설정 되어있을 수 있습니다.<br>
   <summary>📌My Project</summary>
   
 - [나의 포트폴리오 소개 사이트](https://mini-blog-swart-nine.vercel.app/)
+- [공부정리사이트](https://a-study.vercel.app/)  
 - 럽가든(스토어 비공개 테스트중)  
 - 게임(개발중)  
 
