@@ -31,10 +31,7 @@ private로 설정 되어있을 수 있습니다.<br>
 <br>
 <details open>
   <summary>📌My Project</summary>
-  
-- [나의 포트폴리오 소개 사이트](https://mini-blog-swart-nine.vercel.app/)
-- [공부정리사이트](https://a-study.vercel.app/)  
-- 럽가든(스토어 비공개 테스트중)  
+- [럽가든 키우기 - 구글스토어](https://play.google.com/store/apps/details?id=com.mycompany.lovegarden)  
 - 게임(개발중)  
 
 </details>
