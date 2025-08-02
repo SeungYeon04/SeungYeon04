@@ -31,6 +31,7 @@ private로 설정 되어있을 수 있습니다.<br>
 <br>
 <details open>
   <summary>📌My Project</summary>
+  
 - [럽가든 키우기 - 구글스토어](https://play.google.com/store/apps/details?id=com.mycompany.lovegarden)  
 - 게임(개발중)  
 
