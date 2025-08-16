@@ -94,6 +94,8 @@ Linux·Ubuntu 서버, Firebase, 무료 호스팅(Vercel, Netlify, GitHub Pages),
 #### Stats  
 ![SeungYeon04 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=SeungYeon04)  
 
+<img src="https://stats.dooboo.io/api/github-stats-advanced?login=SeungYeon04" width="450" /> 
+
 #### Trophies  
 ![SeungYeon04 github-trophies](https://stats.dooboo.io/api/github-trophies?login=SeungYeon04)  
 [![trophy](https://github-profile-trophy.vercel.app/?username=SeungYeon04&theme=flat&column=5)](https://github.com/dkssud8150/)  
