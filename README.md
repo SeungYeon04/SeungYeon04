@@ -1,6 +1,13 @@
 <body>
 <div>
-<h3>👋 게임 개발자 승연입니다.</h3>
+
+## 👨‍💻 About Me
+- 🎓 전주비전대 컴퓨터정보과 졸업 예정  
+- 🎮 게임 개발 · 앱 개발 · 웹 개발 경험  
+- 🖥️ Ubuntu 서버로 웹호스팅 경험  
+- 🚀 현재는 Unity 기반 게임 개발 집중 + C#/백엔드 학습 중  
+
+  
 전주비전대 컴퓨터정보과 졸업학년에 속한<br>
 게임 개발과 웹 개발 앱 개발 등에<br>
 다양한 경험을 해본 승연이라 합니다.<br>
@@ -29,31 +36,52 @@
 현재 깃허브 메인 C# 게임프로젝트와 앱개발은<br>
 private로 설정 되어있을 수 있습니다.<br>
 <br>
-<details open>
-  <summary>📌My Project</summary>
 
-**2024**: [공부정리 블로그 웹사이트](https://github.com/SeungYeon04/A_Study)  
-**2024**: [한영대 졸업작품전 웹사이트 외주](https://github.com/SeungYeon04/A_KrMedia)  
-**2024**: 교내대회 창업아이템 경진대회 은상  
-**2025**: [럽가든 키우기 - 구글스토어](https://play.google.com/store/apps/details?id=com.mycompany.lovegarden)  
-**2025**: 게임(개발중)  
+<details open>
+  <summary>📌 My Projects</summary>
+
+- **2024**: [공부정리 블로그 웹사이트](https://github.com/SeungYeon04/A_Study)  
+- **2024**: [한영대 졸업작품전 웹사이트 외주](https://github.com/SeungYeon04/A_KrMedia)  
+- **2024**: 교내 창업아이템 경진대회 **은상 🥈**  
+- **2025**: [럽가든 키우기 - 구글스토어](https://play.google.com/store/apps/details?id=com.mycompany.lovegarden)  
+- **2025**: Unity 기반 인디 RPG (개발중) 🎮  
 
 </details>
 
 <details>
   <summary>🌈 Study Stack</summary>
+  
+**Languages**  
 <img src="https://img.shields.io/badge/C%23-462679?style=flat-square&logo=.NET&logoColor=white">
 <img src="https://img.shields.io/badge/C-DBA901?style=flat-square&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/Java-e16500?style=flat-square&logo=eclipseide&logoColor=white">  
+
+**Game Engines & Tools**  
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white">  
+<img src="https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white">
+<img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white">
+<img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white">  
+<sub>(Learning)</sub>  
+
+**Version Control**  
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub%20Desktop-8034A9?style=flat-square&logo=github&logoColor=white">  
+
+**Web & App**  
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/React-50bcdf?style=flat-square&logo=react&logoColor=white"/>
-<br> 
-<img src="https://img.shields.io/badge/Java-e16500?style=flat-square&logo=eclipseide&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-106393?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-50bcdf?style=flat-square&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white">  
+
+**Deployment & Services**  
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white">  
+<sub>(Actual deployment experience)</sub>  
+
+**Server & Virtualization**  
 <img src="https://img.shields.io/badge/Linux-292929?style=flat-square&logo=Linux&logoColor=white">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white">
-</details>
-
+<img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white">  
 
 <details open>
   <summary>📊GitHub Stats</summary>
