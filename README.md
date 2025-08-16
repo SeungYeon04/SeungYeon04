@@ -43,7 +43,7 @@ Linux·Ubuntu 서버, Firebase, 무료 호스팅(Vercel, Netlify, GitHub Pages),
 ## 📌 My Projects
 - **2024**: [공부정리 블로그 웹사이트](https://github.com/SeungYeon04/A_Study)  
 - **2024**: [한영대 졸업작품전 웹사이트 외주](https://github.com/SeungYeon04/A_KrMedia)  
-- **2025**: [럽가든 키우기 🌱](https://play.google.com/store/apps/details?id=com.mycompany.lovegarden)  
+- **2025**: [럽가든 키우기 커플앱🌱](https://play.google.com/store/apps/details?id=com.mycompany.lovegarden)  
 - **2025**: Unity 기반 인디 RPG (개발중) 🎮  
   
 ### 📂 Repository 구분 방식
