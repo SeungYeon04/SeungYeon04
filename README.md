@@ -95,13 +95,10 @@ Linux·Ubuntu 서버, Firebase, 무료 호스팅(Vercel, Netlify, GitHub Pages),
 <img src="https://stats.dooboo.io/api/github-stats-advanced?login=SeungYeon04" width="450" /> 
 
 #### Trophies  
-![SeungYeon04 github-trophies](https://stats.dooboo.io/api/github-trophies?login=SeungYeon04)  
-[![trophy](https://github-profile-trophy.vercel.app/?username=SeungYeon04&theme=flat&column=5)](https://github.com/dkssud8150/)  
-
 <img src="https://stats.dooboo.io/api/github-trophies?login=SeungYeon04" width="450"/>
 
 <a href="https://github.com/dkssud8150/">
-  <img src="https://github-profile-trophy.vercel.app/?username=SeungYeon04&theme=flat&column=5" width="600"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SeungYeon04&theme=flat&column=5" width="450"/>
 </a>
 
 
