@@ -5,14 +5,12 @@
 - 🎮 게임 개발 · 앱 개발 · 웹 개발 경험  
 - 🖥️ 자체 서버(VirtualBox + Ubuntu)와 무료 호스팅(Vercel, Netlify, GitHub Pages) 경험  
 - 🚀 현재는 Unity 게임 개발에 집중 + C#/Unreal/Godot 등 다른 엔진도 탐구 중  
-- 📱 Google Play Store 배포 경험 (자체 앱 출시)  
-- 🌐 웹 외주 프로젝트 참여 경험  
   
 ## 🏅 Activities & Achievements 
 - 👩‍🏫 개발 아카데미 및 부트캠프 (Us:Code, 스파르타 코딩클럽) 참여  
 - 🏆 교내 창업아이템 경진대회 은상 수상  
-- 🚀 Google Play Store 앱 배포 경험  
-- 🌐 대학 졸업작품전 웹사이트 외주 개발 참여  
+- 🌐 대학 졸업작품전 웹사이트 외주 개발 참여
+- 📱 Google Play Store 배포 경험 (자체 앱 출시)  
   
 <details>
   <summary>더 보기</summary>
