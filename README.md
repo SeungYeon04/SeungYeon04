@@ -4,7 +4,7 @@
 - 🎓 전주비전대 컴퓨터정보과 졸업 예정  
 - 🎮 게임 개발 · 앱 개발 · 웹 개발 경험  
 - 🖥️ Ubuntu 서버로 웹호스팅 경험  
-- 🚀 현재는 Unity 기반 게임 개발 집중 + C#/백엔드 학습 중  
+- 🚀 현재는 Unity 게임 개발에 집중 + C#/Unreal/Godot 등 다른 엔진도 탐구 중  
 
 <details>
   <summary>더 보기</summary>
@@ -60,8 +60,7 @@ private로 설정되어 있을 수 있습니다.
 **Languages**  
 <img src="https://img.shields.io/badge/C%23-462679?style=flat-square&logo=.NET&logoColor=white">
 <img src="https://img.shields.io/badge/C-DBA901?style=flat-square&logo=C&logoColor=white">
-<img src="https://img.shields.io/badge/Java-e16500?style=flat-square&logo=eclipseide&logoColor=white">
-<img src="https://img.shields.io/badge/Python-106393?style=flat-square&logo=Python&logoColor=white">  
+<img src="https://img.shields.io/badge/Java-e16500?style=flat-square&logo=eclipseide&logoColor=white">  
 
 **Game Engines & Tools**  
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white">  
