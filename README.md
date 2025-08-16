@@ -82,6 +82,7 @@ private로 설정 되어있을 수 있습니다.<br>
 <img src="https://img.shields.io/badge/Linux-292929?style=flat-square&logo=Linux&logoColor=white">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white">
 <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white">  
+</details>
 
 <details open>
   <summary>📊GitHub Stats</summary>
