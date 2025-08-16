@@ -1,11 +1,19 @@
 <body>
   
-## 👨‍💻 About Me
+## 👩‍💻 About Me
 - 🎓 전주비전대 컴퓨터정보과 졸업 예정  
 - 🎮 게임 개발 · 앱 개발 · 웹 개발 경험  
-- 🖥️ Ubuntu 서버로 웹호스팅 경험  
+- 🖥️ 자체 서버(VirtualBox + Ubuntu)와 무료 호스팅(Vercel, Netlify, GitHub Pages) 경험  
 - 🚀 현재는 Unity 게임 개발에 집중 + C#/Unreal/Godot 등 다른 엔진도 탐구 중  
-
+- 📱 Google Play Store 배포 경험 (자체 앱 출시)  
+- 🌐 웹 외주 프로젝트 참여 경험  
+  
+## 🏅 Activities & Achievements 
+- 👩‍🏫 개발 아카데미 및 부트캠프 (Us:Code, 스파르타 코딩클럽) 참여  
+- 🏆 교내 창업아이템 경진대회 은상 수상  
+- 🚀 Google Play Store 앱 배포 경험  
+- 🌐 대학 졸업작품전 웹사이트 외주 개발 참여  
+  
 <details>
   <summary>더 보기</summary>
   
@@ -44,7 +52,6 @@ private로 설정되어 있을 수 있습니다.
 ## 📌 My Projects
 - **2024**: [공부정리 블로그 웹사이트](https://github.com/SeungYeon04/A_Study)  
 - **2024**: [한영대 졸업작품전 웹사이트 외주](https://github.com/SeungYeon04/A_KrMedia)  
-- **2024**: 교내 창업아이템 경진대회 **은상 🥈**  
 - **2025**: [럽가든 키우기 🌱](https://play.google.com/store/apps/details?id=com.mycompany.lovegarden)  
 - **2025**: Unity 기반 인디 RPG (개발중) 🎮  
   
