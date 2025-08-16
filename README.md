@@ -40,11 +40,11 @@ private로 설정 되어있을 수 있습니다.<br>
 <details open>
   <summary>📌 My Projects</summary>
 
-- **2024**: [공부정리 블로그 웹사이트](https://github.com/SeungYeon04/A_Study)  
-- **2024**: [한영대 졸업작품전 웹사이트 외주](https://github.com/SeungYeon04/A_KrMedia)  
-- **2024**: 교내 창업아이템 경진대회 **은상 🥈**  
-- **2025**: [럽가든 키우기 - 구글스토어](https://play.google.com/store/apps/details?id=com.mycompany.lovegarden)  
-- **2025**: Unity 기반 인디 RPG (개발중) 🎮  
+> **2024**: [공부정리 블로그 웹사이트](https://github.com/SeungYeon04/A_Study)  
+> **2024**: [한영대 졸업작품전 웹사이트 외주](https://github.com/SeungYeon04/A_KrMedia)  
+> **2024**: 교내 창업아이템 경진대회 **은상 🥈**  
+> **2025**: [럽가든 키우기 🌱](https://play.google.com/store/apps/details?id=com.mycompany.lovegarden)  
+> **2025**: Unity 기반 인디 RPG (개발중) 🎮  
 
 </details>
 
@@ -101,7 +101,7 @@ private로 설정 되어있을 수 있습니다.<br>
 <details>
   <summary>🏆GitHub Throphies</summary>
 
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=p4430017)](https://solved.ac/p4430017/)  
+  <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=p4430017)](https://solved.ac/p4430017/) -->  
   
   ![SeungYeon04 github-trophies](https://stats.dooboo.io/api/github-trophies?login=SeungYeon04)  
    
