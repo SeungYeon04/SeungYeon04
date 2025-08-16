@@ -41,6 +41,7 @@ Linux·Ubuntu 서버, Firebase, 무료 호스팅(Vercel, Netlify, GitHub Pages),
 </details>
 
 ## 📌 My Projects
+(일부 주요 프로젝트는 private 저장소로 관리되고 있습니다.)  
 - **2024**: [공부정리 블로그 웹사이트](https://github.com/SeungYeon04/A_Study)  
 - **2024**: [한영대 졸업작품전 웹사이트 외주](https://github.com/SeungYeon04/A_KrMedia)  
 - **2025**: [럽가든 키우기 커플앱🌱](https://play.google.com/store/apps/details?id=com.mycompany.lovegarden)  
