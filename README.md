@@ -52,7 +52,7 @@ Linux·Ubuntu 서버, Firebase, 무료 호스팅(Vercel, Netlify, GitHub Pages),
   
 ### 📂 Repository 구분 방식
 레퍼지토리 이름 앞에 이니셜이 프로젝트 구분입니다.  
-- 웹 A, 언리얼 B, 유니티 C, 앱 D, 기타 E, fork F  
+- 웹 A, 언리얼 B, 유니티 C, 앱 D, 게임 E, fork F  
   
 --- 
   
