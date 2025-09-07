@@ -45,10 +45,16 @@ Linux·Ubuntu 서버, Firebase, 무료 호스팅(Vercel, Netlify, GitHub Pages),
 - **2024**: [공부정리 블로그 웹사이트](https://github.com/SeungYeon04/A_Study)  
 - **2024**: [한영대 졸업작품전 웹사이트 외주](https://github.com/SeungYeon04/A_KrMedia)  
 - **2025**: [AI 관계케어 커플앱🌱 - Android Studio](https://play.google.com/store/apps/details?id=com.mycompany.lovegarden)  
-- **2025**: Unity 기반 인디 RPG (개발중) 🎮
-- **2025**: Unity 기반 3D P2P 멀티 공포게임 (개발예정) 🎮
-- **2025** : Godot 기반 동물 시터앱 (개발예정)  
-- **2026**: Godot 기반 첫화면 자격증 공부앱 (개발예정)  
+- **2025**: Unity 기반 인디 RPG 온리1인개발 (개발중) 🎮
+- **2025**: Unity 기반 3D P2P 멀티 공포게임 (개발중) 🎮
+- **2025** : Godot 기반 동물 시터앱 (개발중)  
+- **2026**: Godot 기반 첫화면 자격증 공부앱 (개발예정)
+
+<!--
+위꺼는 정보처리산업기사 같은 코딩문제 + 이론문제로 
+아예 코딩도 해도 됨 
+**2026**: 말해보카 같은 모바일 코딩 테스트 게임 + 첫화면 기능도 가능 (개발예정)  
+**2026**: 언리얼 기반 자동차 관련 게임 (개발예정) --> 
   
 ### 📂 Repository 구분 방식
 레퍼지토리 이름 앞에 이니셜이 프로젝트 구분입니다.  
