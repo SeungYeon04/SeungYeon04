@@ -46,7 +46,7 @@ Linux·Ubuntu 서버, Firebase, 무료 호스팅(Vercel, Netlify, GitHub Pages),
 - **2024**: [한영대 졸업작품전 웹사이트 외주](https://github.com/SeungYeon04/A_KrMedia)  
 - **2025**: [AI 관계케어 커플앱🌱 - Android Studio](https://play.google.com/store/apps/details?id=com.mycompany.lovegarden)  
 - **2025**: Unity 기반 인디 RPG 온리1인개발 (개발중) 🎮
-- **2025**: Unity 기반 3D P2P 멀티 공포게임 (개발중) 🎮
+- **2025**: [Unity 기반 3D P2P 멀티 공포게임 (개발중) 🎮](https://github.com/SeungYeon04/C_HorrorP2P-Source)  
 - **2025** : Godot 기반 동물 시터앱 (개발중)  
 - 언리얼 기말?중간? 프로젝트는 앵무새로 압주처럼 탐험하게 해야겠다. 동물 시뮬레이션 + 힐링 스토리 탐험 게임
 
