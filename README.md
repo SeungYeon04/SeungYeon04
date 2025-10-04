@@ -55,6 +55,7 @@ Linux·Ubuntu 서버, Firebase, 무료 호스팅(Vercel, Netlify, GitHub Pages),
 https://www.blendswap.com/blend/12715
 --> 
   
+- **2026**: Unity + Py 기반 운세, 타로, 포춘쿠키 사주 등 운세앱 + 차트화할지도 + 카톡공유 (개발예정)  
 - **2026**: Godot 기반 첫화면 자격증 공부앱 (개발예정)  
 
 <!--
