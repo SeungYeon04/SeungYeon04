@@ -40,7 +40,7 @@ Linux·Ubuntu 서버, Firebase, 무료 호스팅(Vercel, Netlify, GitHub Pages),
 
 ## 📌 My Projects
 
-<sub>(모든 중요한 프로젝트는 private 저장소로 관리되고 있습니다.)</sub>  
+<sub>(주요 프로젝트는 private 저장소로 관리되고 있습니다.)</sub>  
 
 - **2024**: [공부정리 블로그 웹사이트](https://github.com/SeungYeon04/A_Study)  
 - **2024**: [한영대 졸업작품전 웹사이트 외주](https://github.com/SeungYeon04/A_KrMedia)  
