@@ -40,28 +40,28 @@ Linux·Ubuntu 서버, Firebase, 무료 호스팅(Vercel, Netlify, GitHub Pages),
 
 ## 📌 My Projects
 
-<sub>(일부 주요 프로젝트는 private 저장소로 관리되고 있습니다.)</sub>  
+<sub>(모든 중요한 프로젝트는 private 저장소로 관리되고 있습니다.)</sub>  
 
 - **2024**: [공부정리 블로그 웹사이트](https://github.com/SeungYeon04/A_Study)  
 - **2024**: [한영대 졸업작품전 웹사이트 외주](https://github.com/SeungYeon04/A_KrMedia)  
 - **2025**: [AI 관계케어 커플앱🌱 - Android Studio](https://play.google.com/store/apps/details?id=com.mycompany.lovegarden)  
 - **2025**: 2D RPG 1인개발 인디게임 🎮 - Unity (개발중)  
 - **2025**: [VR 판타지 스토리 생존/탈출 공포게임🎮 - Unity (개발중)](https://github.com/SeungYeon04/C_HorrorP2P-Source)  
-- **2025** : 운세앱 - Unity (개발중)  
+- **2025** : 아기자기 귀여운 운세앱 - Unity (개발중)
+  [Unity + Py 기반 운세, 타로, 포춘쿠키 사주 등 운세앱 + 차트화할지도 + 카톡공유]  
 - **2025** : 언리얼 기말?중간? 프로젝트는 앵무새로 압주처럼 탐험하게 해야겠다. 동물 시뮬레이션 + 힐링 스토리 탐험 게임
-
+  
 <!-- 상업 이용되는 3D 새대갈 모양 https://www.blendswap.com/blend/26627 
 상업 이용 되는 호러 몬스터 원작자 출처필수 
 https://www.blendswap.com/blend/12715
 --> 
   
-- **2026**: Unity + Py 기반 운세, 타로, 포춘쿠키 사주 등 운세앱 + 차트화할지도 + 카톡공유 (개발예정)  
 - **2026**: Godot 기반 첫화면 자격증 공부앱 (개발예정)  
 
 <!--
 위꺼는 정보처리산업기사 같은 코딩문제 + 이론문제로 
 아예 코딩도 해도 됨 
-**2026**: 말해보카 같은 모바일 코딩 테스트 게임 + 첫화면 기능도 가능 (개발예정)  
+**2026**: 말해보카 같은 블록 모바일 코딩 테스트 게임 + 첫화면 기능도 가능 (개발예정)  
 **2026**: 언리얼 기반 자동차 관련 게임 (개발예정) --> 
   
 ### 📂 Repository 구분 방식
