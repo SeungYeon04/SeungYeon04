@@ -1,7 +1,7 @@
 <body>
   
 ## 👩‍💻 About Me
-- 🎓 전주비전대 컴퓨터정보과 졸업 예정  
+- 🎓 전주비전대 컴퓨터정보과 졸업작품 전시 완료  
 - 🎮 게임 개발 · 앱 개발 · 웹 개발 경험  
 - 🖥️ 자체 서버(VirtualBox + Ubuntu)와 무료 호스팅(Vercel, Netlify, GitHub Pages) 경험  
 - 🚀 현재는 Unity 게임 개발에 집중 + C#/Unreal/Godot 등 다른 엔진도 탐구 중  
