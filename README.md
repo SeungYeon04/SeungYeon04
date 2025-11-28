@@ -47,10 +47,10 @@ Linux·Ubuntu 서버, Firebase, 무료 호스팅(Vercel, Netlify, GitHub Pages),
 - **2024**: [한영대 졸업작품전 웹사이트 외주](https://github.com/SeungYeon04/A_KrMedia)  
 - **2025**: [AI 관계케어 커플앱🌱 - Android Studio](https://play.google.com/store/apps/details?id=com.mycompany.lovegarden)  
 - **2025**: 2D RPG 1인개발 인디게임 🎮 - Unity (개발중)  
-- **2025**: [VR 싱글 판타지 스토리 생존/탈출 공포게임🎮 - Unity (개발중)](https://github.com/SeungYeon04/C_HorrorP2P-Source)  
+- **2025**: [VR+PC 싱글 판타지 스토리 생존/탈출 공포게임🎮 - Unity (개발중)](https://github.com/SeungYeon04/C_HorrorP2P-Source)  
+- **2025**: VR+PC 앵무 시뮬레이션 성장형 탐험/힐링게임🎮 - Unreal (개발중)  
 - **2025** : 아기자기 귀여운 운세앱 - Unity (개발중)
   [Unity + Py 기반 운세, 타로, 포춘쿠키 사주 등 운세앱 + 차트화할지도 + 카톡공유]  
-- **2025** : 언리얼 기말?중간? 프로젝트는 앵무새로 압주처럼 탐험하게 해야겠다. 동물 시뮬레이션 + 힐링 스토리 탐험 멀티 게임  
   
   
 - **2026**: Godot 기반 첫화면 자격증 공부앱 (개발예정)  
