@@ -78,9 +78,8 @@ Linux·Ubuntu 서버, Firebase, 무료 호스팅(Vercel, Netlify, GitHub Pages),
 
 **Game Engines & Tools**  
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white">  
-<img src="https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white"> <sub>(Learning)</sub>  
-<img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white"> <sub>(Learning)</sub>  
-<img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white"> <sub>(Learning)</sub>  
+<img src="https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white">  
+<img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white"> 
 
 **Version Control**  
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
