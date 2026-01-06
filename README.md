@@ -1,14 +1,7 @@
 
 <body>
-<!--
-<div align="left">
-  <br />
-  <img align="right" width="80" src="https://github.com/user-attachments/assets/6c3385b3-05a7-47ab-a71b-a628e4435217" />
-  <br />
 
- <a href="https://solved.ac/believeme"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=believeme&theme=dark" height="20"/></a>
-</div>
--->
+
   
 ## 👩‍💻 About Me
 - 🎓 전주비전대 컴퓨터정보과 졸업  
@@ -27,13 +20,12 @@
 
 <sub>(주요 프로젝트는 private 저장소로 관리되고 있습니다.)</sub>  
 
-- **2024**: [공부정리 블로그 웹사이트](https://github.com/SeungYeon04/A_Study)  
-- **2024**: [한영대 졸업작품전 웹사이트 외주](https://github.com/SeungYeon04/A_KrMedia)  
-- **2025**: [AI 관계케어 커플앱🌱 - Android Studio](https://play.google.com/store/apps/details?id=com.mycompany.lovegarden)  
-- **2025**: 2D RPG 1인개발 인디게임 🎮 - Unity (개발중)  
-- **2025**: [VR+PC 이스케이프형 생존/탈출 공포게임🎮 - Unity (개발중)](https://github.com/SeungYeon04/C_HorrorP2P-Source)  
-- **2026**: VR+PC 앵무 시뮬레이션 성장형 탐험/힐링게임🎮 - Unreal (개발중)
-
+| 출시 | 프로젝트 | 소개 | 바로가기 |
+|:--:|:--|:--|:--:|
+| 2026 | **🦜 VR 앵무 힐링 게임** | Unreal · VR+PC 탐험/성장 | 🔒 |
+| 2025 | **👻 VR 생존·탈출 공포게임** | Unity · P2P 협동 탈출 | [🐈](https://github.com/SeungYeon04/C_HorrorP2P-Source) |
+| 2025 | **🌱 LoveGarden** | Android 커플 케어 앱 | [🔗](https://play.google.com/store/apps/details?id=com.mycompany.lovegarden) |
+| 2025 | **🎮 2D RPG** | Unity 1인 개발 RPG | 🔒 |
 <!--  
 - **2025** : 아기자기 귀여운 운세앱 - Unity (개발중)
   [Unity + Py 기반 운세, 타로, 포춘쿠키 사주 등 운세앱 + 차트화할지도 + 카톡공유]  
