@@ -1,6 +1,33 @@
 
 <body>
 
+<!--
+귀여운 GIF와 설명 그리고 SNS, 연락 뱃지
+
+<div align="left">
+  <br />
+
+  <img
+    align="right"
+    width="80"
+    src="https://github.com/user-attachments/assets/6c3385b3-05a7-47ab-a71b-a628e4435217"
+  />
+
+  🎮 Game Developer  
+  Unity · Unreal  
+  VR + PC 크로스플랫폼 게임 개발  
+
+  <br />
+
+  <a href="https://solved.ac/believeme">
+    <img
+      src="http://mazassumnida.wtf/api/mini/generate_badge?boj=believeme&theme=dark"
+      height="20"
+    />
+  </a>
+</div>
+
+--> 
 
   
 ## 👩‍💻 About Me
