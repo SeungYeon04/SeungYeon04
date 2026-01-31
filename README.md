@@ -49,7 +49,7 @@
 
 | 출시 | 프로젝트 | 소개 | 바로가기 |
 |:--:|:--|:--|:--:|
-| 2026 | **🦜 VR 앵무 힐링 게임** | 🔒 | 
+| 2026 | **🦜 VR 앵무 힐링 게임** | Unreal 5.6 · BluePrint | 🔒 | 
 | 2026 | **☕ 첫화면 자격증 공부 퀴즈 앱** | Fluter | [🐈](https://github.com/SeungYeon04/D_StudyQuiz) |
 | 2025 | **👻 VR 생존·탈출 공포게임** | Unity · P2P 협동 탈출 | [🐈](https://github.com/SeungYeon04/C_HorrorP2P-Source) |
 | 2025 | **🌱 LoveGarden** | Android 커플 케어 앱 | [🔗](https://play.google.com/store/apps/details?id=com.mycompany.lovegarden) |
